@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0,
+    user-scalable=no, shrink-to-fit=no"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>日本各地PCR检测机构 | 在日华人实用线上工具</title>
+    <!-- Load required Bootstrap and BootstrapVue CSS -->
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="//unpkg.com/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="//unpkg.com/bootstrap-vue@2.21.2/dist/bootstrap-vue.min.css"
+    />
+    <link type="text/css" rel="stylesheet" href="./index.css" />
+    <!-- Load Vue followed by BootstrapVue -->
+    <script src="//unpkg.com/vue@2.6.12/dist/vue.min.js"></script>
+    <script src="//unpkg.com/bootstrap-vue@2.21.2/dist/bootstrap-vue.min.js"></script>
+    <!-- Load the following for BootstrapVueIcons support -->
+    <script src="//unpkg.com/bootstrap-vue@2.21.2/dist/bootstrap-vue-icons.min.js"></script>
+    <script src="./index.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div>
+        <b-jumbotron header="日本各地PCR检测机构">
+          <b-alert show
+            >数据来源：中国驻日大使馆
+            <b-link
+              href="http://www.china-embassy.or.jp/chn/sgkx/t1844717.htm"
+              target="_blank"
+              >详细 >></b-link
+            >（指定双检机构）<br />
+            <small class="text-light bg-dark"
+              >最新信息请务必以大使馆官网为准</small
+            >
+          </b-alert>
+        </b-jumbotron>
+      </div>
+      <div>
+        <div>
+          <b-radio-group
+            v-model="selected"
+            :options="prefs"
+            @change="showPlaces"
+            button-variant="outline-primary"
+            buttons
+          ></b-radio-group>
+        </div>
+        <hr />
+        <div id="map" style="width: 100%; height: 380px;"></div>
+      </div>
+      <p class="lead">在日华人实用线上工具，同舟共济共克时艰</p>
+      <p class="text-light bg-dark">
+        感谢：<span class="font-weight-bold">解禅</span>
+        (处理数据)&nbsp;|&nbsp;作者：<span class="font-weight-bold">晶哥</span>
+      </p>
+    </div>
+  </body>
+  <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyARyB66lHiyuW8S_eQgrhWsQIvBNxkAvbQ&language=zh&region=CN"></script>
+</html>
