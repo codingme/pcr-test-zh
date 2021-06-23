@@ -18,65 +18,78 @@ window.onload = () => {
       };
     },
     methods: {
-      showPlaces: function (prefecture) {
+      showPlaces: async function (prefecture) {
         this.markers.map((m, i) => {
           m.setMap(null);
           return false;
         });
         this.markers = [];
+        const prefPlaces = this.places.filter((place) => {
+          return prefecture === place.prefecture.en;
+        });
 
         this.geocoder.geocode({ address: prefecture }, (results, status) => {
           this.gmap.setCenter(results[0].geometry.location);
         });
 
-        this.places.map((place, i) => {
-          if (prefecture !== place.prefecture.en) {
-            return false;
+        for (let i = 0; i < prefPlaces.length; i++) {
+          await new Promise((resolve) => setTimeout(resolve, 200));
+          console.debug(i);
+          this.renderMarker(prefPlaces[i]);
+        }
+        alert("加载结束");
+      },
+      renderMarker: function (place) {
+        this.geocoder.geocode(
+          { address: place.facility.address },
+          (results, status) => {
+            if (status !== google.maps.GeocoderStatus.OK) {
+              return false;
+            }
+            const marker = new google.maps.Marker({
+              // position: { lat: 34.6937, lng: 135.5023 },
+              position: results[0].geometry.location,
+              map: this.gmap,
+              label: { text: "PCR", color: "red", fontSize: "1.6em" },
+              title: place.facility.name,
+              icon: "http://maps.google.com/mapfiles/ms/icons/ylw-pushpin.png",
+              optimized: true
+            });
+            this.markers.push(marker);
+            const infoWindow = new google.maps.InfoWindow({
+              content:
+                "<h3>" +
+                place.facility.name +
+                "</h3>" +
+                "<h6>" +
+                place.facility.address +
+                "</h6>" +
+                "<h6>" +
+                "<a href=" +
+                place.facility.hp +
+                " target='_blank'>" +
+                place.facility.hp +
+                "</a>" +
+                "</h6>" +
+                "<h6>" +
+                place.facility.tel +
+                "</h6>" +
+                "<h6>" +
+                place.facility.pcr.result +
+                " 出结果" +
+                "</h6>" +
+                "<h6>" +
+                place.facility.pcr.workday +
+                "</h6>"
+            });
+            marker.addListener("click", () => {
+              infoWindow.open({
+                anchor: marker,
+                map: this.gmap
+              });
+            });
           }
-          setTimeout(() => {
-            this.geocoder.geocode(
-              { address: place.facility.address },
-              (results, status) => {
-                if (status !== google.maps.GeocoderStatus.OK) {
-                  return false;
-                }
-                const marker = new google.maps.Marker({
-                  // position: { lat: 34.6937, lng: 135.5023 },
-                  position: results[0].geometry.location,
-                  map: this.gmap,
-                  label: { text: "PCR", color: "red", fontSize: "1.6em" },
-                  title: place.facility.name,
-                  icon:
-                    "http://maps.google.com/mapfiles/ms/icons/ylw-pushpin.png",
-                  optimized: true
-                });
-                this.markers.push(marker);
-                const infoWindow = new google.maps.InfoWindow({
-                  content:
-                    "<h2>" +
-                    place.facility.name +
-                    "</h2>" +
-                    JSON.stringify(place.facility)
-                      .replaceAll("{", "")
-                      .replaceAll("}", "")
-                      .replaceAll(",", "<br>")
-                      .replaceAll("name", "检测机构")
-                      .replaceAll("address", "地址")
-                      .replaceAll("pcr", "PCR")
-                      .replaceAll("result", "出结果时间")
-                      .replaceAll("workday", "工作时间")
-                });
-                marker.addListener("click", () => {
-                  infoWindow.open({
-                    anchor: marker,
-                    map: this.gmap
-                  });
-                });
-              }
-            );
-          }, 500);
-          return false;
-        });
+        );
       }
     },
     mounted() {
