@@ -7,37 +7,45 @@ window.onload = () => {
         geocoder: null,
         places: null,
         markers: null,
+        counter: 0,
         prefs: [
           { text: "東京使", value: "Chiyodaku" },
           { text: "大阪領", value: "Osaka" },
           { text: "福岡領", value: "Fukuoka" },
           { text: "名古屋領", value: "Nagoya" },
-          { text: "新潟領", value: "Niigata" }
+          { text: "新潟領", value: "Niigata" },
+          { text: "未选", value: "None" }
         ],
-        selected: "Chiyodaku"
+        prefPlaces: null,
+        selected: "None"
       };
     },
     methods: {
-      showPlaces: async function (prefecture) {
-        this.markers.map((m, i) => {
+      showPlaces: function (prefecture) {
+        this.counter = 0;
+        this.markers.map(async (m, i) => {
           m.setMap(null);
-          return false;
         });
         this.markers = [];
-        const prefPlaces = this.places.filter((place) => {
-          return prefecture === place.prefecture.en;
-        });
 
         this.geocoder.geocode({ address: prefecture }, (results, status) => {
           this.gmap.setCenter(results[0].geometry.location);
         });
 
-        for (let i = 0; i < prefPlaces.length; i++) {
-          await new Promise((resolve) => setTimeout(resolve, 200));
-          console.debug(i);
-          this.renderMarker(prefPlaces[i]);
+        if ("None" === this.selected) {
+          return false;
         }
-        alert("加载结束");
+
+        this.prefPlaces = this.places.filter((place) => {
+          return prefecture === place.prefecture.en;
+        });
+        this.prefPlaces.map(async (p, i) => {
+          setTimeout(() => {
+            console.log(i);
+            this.renderMarker(p);
+            this.counter = i + 1;
+          }, i * 1000);
+        });
       },
       renderMarker: function (place) {
         this.geocoder.geocode(
@@ -53,6 +61,7 @@ window.onload = () => {
               label: { text: "PCR", color: "red", fontSize: "1.6em" },
               title: place.facility.name,
               icon: "http://maps.google.com/mapfiles/ms/icons/ylw-pushpin.png",
+              animation: google.maps.Animation.DROP,
               optimized: true
             });
             this.markers.push(marker);

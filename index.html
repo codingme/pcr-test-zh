@@ -30,7 +30,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
-      src="https://www.googletagmanager.com/gtag/js?id=G-NRFVMK8FMW"
+      src="//www.googletagmanager.com/gtag/js?id=G-NRFVMK8FMW"
     ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -56,6 +56,14 @@
             <small class="text-light bg-dark"
               >最新信息请务必以大使馆官网为准</small
             >
+            <span
+              v-text="prefPlaces && counter === prefPlaces.length ? '加载完成' : '正在加载'"
+            ></span
+            >：<span
+              v-text="prefPlaces ? counter + '/' + prefPlaces.length : '0'"
+              class="text-danger"
+            ></span>
+            处
           </b-alert>
         </b-jumbotron>
       </div>
@@ -66,22 +74,25 @@
             :options="prefs"
             @change="showPlaces"
             button-variant="outline-primary"
+            :disabled="!(prefPlaces && counter === prefPlaces.length) && selected !== 'None'"
             buttons
           ></b-radio-group>
         </div>
         <hr />
         <div id="map" style="width: 100%; height: 380px;"></div>
       </div>
+    </div>
+    <footer>
       <p class="lead">在日华人实用线上工具，同舟共济共克时艰</p>
       <p class="text-light bg-dark">
         感谢：<span class="font-weight-bold">解禅</span>
         (处理数据)，
-        <a href="https://jbm-co.jp" target="_blank"
+        <a href="//jbm-co.jp" target="_blank"
           ><span class="font-weight-bold">JBM</span></a
         >
         (域名支持)&nbsp;|&nbsp;作者：<span class="font-weight-bold">晶哥</span>
       </p>
-    </div>
+    </footer>
   </body>
   <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyARyB66lHiyuW8S_eQgrhWsQIvBNxkAvbQ&language=zh&region=CN"></script>
 </html>
