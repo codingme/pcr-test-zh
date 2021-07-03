@@ -57,7 +57,7 @@
               >最新信息请务必以大使馆官网为准</small
             >
             <span
-              v-text="prefPlaces && counter === prefPlaces.length ? '加载完成' : '正在加载'"
+              v-text="!prefPlaces || (prefPlaces && counter === prefPlaces.length) ? '加载完成' : '正在加载'"
             ></span
             >：<span
               v-text="prefPlaces ? counter + '/' + prefPlaces.length : '0'"
@@ -74,7 +74,7 @@
             :options="prefs"
             @change="showPlaces"
             button-variant="outline-primary"
-            :disabled="!(prefPlaces && counter === prefPlaces.length) && selected !== 'None'"
+            :disabled="!(prefPlaces && counter === prefPlaces.length) && selected !== 'Tokyo'"
             buttons
           ></b-radio-group>
         </div>

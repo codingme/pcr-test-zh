@@ -14,91 +14,83 @@ window.onload = () => {
           { text: "福岡領", value: "Fukuoka" },
           { text: "名古屋領", value: "Nagoya" },
           { text: "新潟領", value: "Niigata" },
-          { text: "未选", value: "None" }
+          { text: "未选", value: "Tokyo" }
         ],
         prefPlaces: null,
-        selected: "None"
+        selected: "Tokyo"
       };
     },
     methods: {
       showPlaces: function (prefecture) {
         this.counter = 0;
-        this.markers.map(async (m, i) => {
+        this.prefPlaces = null;
+        for (let m of this.markers) {
           m.setMap(null);
-        });
+        }
         this.markers = [];
 
         this.geocoder.geocode({ address: prefecture }, (results, status) => {
           this.gmap.setCenter(results[0].geometry.location);
         });
 
-        if ("None" === this.selected) {
+        if ("Tokyo" === this.selected) {
+          this.counter = 0;
+          this.prefPlaces = null;
           return false;
         }
 
         this.prefPlaces = this.places.filter((place) => {
-          return prefecture === place.prefecture.en;
+          return prefecture === place.prefecture_en;
         });
-        this.prefPlaces.map(async (p, i) => {
-          setTimeout(() => {
-            console.log(i);
-            this.renderMarker(p);
-            this.counter = i + 1;
-          }, i * 1000);
-        });
+        for (let p of this.prefPlaces) {
+          this.counter++;
+          this.renderMarker(p);
+        }
       },
       renderMarker: function (place) {
-        this.geocoder.geocode(
-          { address: place.facility.address },
-          (results, status) => {
-            if (status !== google.maps.GeocoderStatus.OK) {
-              return false;
-            }
-            const marker = new google.maps.Marker({
-              // position: { lat: 34.6937, lng: 135.5023 },
-              position: results[0].geometry.location,
-              map: this.gmap,
-              label: { text: "PCR", color: "red", fontSize: "1.6em" },
-              title: place.facility.name,
-              icon: "http://maps.google.com/mapfiles/ms/icons/ylw-pushpin.png",
-              animation: google.maps.Animation.DROP,
-              optimized: true
-            });
-            this.markers.push(marker);
-            const infoWindow = new google.maps.InfoWindow({
-              content:
-                "<h3>" +
-                place.facility.name +
-                "</h3>" +
-                "<h6>" +
-                place.facility.address +
-                "</h6>" +
-                "<h6>" +
-                "<a href=" +
-                place.facility.hp +
-                " target='_blank'>" +
-                place.facility.hp +
-                "</a>" +
-                "</h6>" +
-                "<h6>" +
-                place.facility.tel +
-                "</h6>" +
-                "<h6>" +
-                place.facility.pcr.result +
-                " 出结果" +
-                "</h6>" +
-                "<h6>" +
-                place.facility.pcr.workday +
-                "</h6>"
-            });
-            marker.addListener("click", () => {
-              infoWindow.open({
-                anchor: marker,
-                map: this.gmap
-              });
-            });
-          }
-        );
+        const marker = new google.maps.Marker({
+          // position: { lat: 34.6937, lng: 135.5023 },
+          position: { lat: Number(place.lat), lng: Number(place.lng) },
+          map: this.gmap,
+          label: { text: "PCR", color: "red", fontSize: "1.6em" },
+          title: place.facility_name,
+          icon: "http://maps.google.com/mapfiles/ms/icons/ylw-pushpin.png",
+          animation: google.maps.Animation.DROP,
+          optimized: true
+        });
+        this.markers.push(marker);
+        const infoWindow = new google.maps.InfoWindow({
+          content:
+            "<h3>" +
+            place.facility_name +
+            "</h3>" +
+            "<h6>" +
+            place.facility_address +
+            "</h6>" +
+            "<h6>" +
+            "<a href=" +
+            place.facility_hp +
+            " target='_blank'>" +
+            place.facility_hp +
+            "</a>" +
+            "</h6>" +
+            "<h6>" +
+            place.facility_tel +
+            "</h6>" +
+            "<h6>" +
+            place.pcr_result +
+            " 出结果" +
+            "</h6>" +
+            "<h6>" +
+            place.pcr_workday +
+            "</h6>"
+        });
+        marker.addListener("click", () => {
+          infoWindow.open({
+            anchor: marker,
+            map: this.gmap
+          });
+        });
       }
     },
     mounted() {

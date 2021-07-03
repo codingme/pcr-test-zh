@@ -1,3156 +1,2380 @@
 {
   "place": [
     {
-      "prefecture": {
-        "name": "空港",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "日本医科大学成田国際空港クリニック成田空港 PCR センター",
-        "address": "第 2 ターミナルビル1 階",
-        "hp": "https://www.nms-pcr.com/",
-        "tel": "0476-34-6805,请提前两天以上通过,网站或电话预约",
-        "pcr": {
-          "result": "0-1 日",
-          "workday": "采样时间 9:00-16:00,如航班时间在早 9:00 前请务必向机,构确认取结果时间，以免耽误乘机,13 岁以下儿童无法检测"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "表参道スキンクリニック",
-        "address": "東京都渋谷区神宮前 5-9-13 喜多重ビル4 階",
-        "hp": "https://covid19test.jp/omotesando.html",
-        "tel": "080-2264-9595",
-        "pcr": {
-          "result": "1 日",
-          "workday": "11:00-18:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "クリニックフォア大手町",
-        "address": "東京都千袋田区大手町 1－2－1 Otemachi One 地下１階",
-        "hp": "https://www.clinicfor.life/otemachi/",
-        "tel": "03-4570-1263",
-        "pcr": {
-          "result": "1 日",
-          "workday": "平日 9:00-20:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医疗法人社团青川会三好医院",
-        "address": "東京都新宿区百人町 2-23-47",
-        "hp": "https://search.10man-doc.co.jp/details/tokyo/00006195",
-        "tel": "03-5337-9871,090-9818-7488",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一、二、三、五,9:00-12:00、15:00-18:00,周四、六、日、休:10:00-13:00,全年无休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "クリニックフォア田町",
-        "address": "東京都港区芝浦 3－1－32 なぎさテラス４階",
-        "hp": "https://www.clinicfor.life/tamachi/",
-        "tel": "03-4579-8189",
-        "pcr": {
-          "result": "1 日",
-          "workday": "平日 9:30-20:30,六、日、祝 9:00-17:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医疗法人社团医进会小田クリニック",
-        "address": "東京都新宿区大久保 1-11-3 大東ビル 2F",
-        "hp": "https://www.ishinkai-mc.net/pcrd",
-        "tel": "03-5273-0770",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "9:30-12:00,14:30-16:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "三田国際ビルクリニック",
-        "address": "東京都港区三田 1-4-28 三田国際ビル3 階",
-        "hp": "https://bit.ly/2KYAgWb（日文）,https://bit.ly/2X9VWB6（中文）",
-        "tel": "03-3454-8614",
-        "pcr": {
-          "result": "0-1 日",
-          "workday": "周一-五 8:30-17:30,周六 8:30-12:30,周日可应对团体检测"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "平和纪念医院",
-        "address": "東京都江東区平野 2-11-5 パシフィック第二門前仲町2F",
-        "hp": "https://heiwa-med.com/",
-        "tel": "03-3820-8880,090-8124-7643,（中文）,微信：heiwamed2020",
-        "pcr": {
-          "result": "0-1 日",
-          "workday": "8:30-19:00,周末、祝日不休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医疗法人社团 幸和会幸和クリニック",
-        "address": "東京都豊島区駒込 6-33-17",
-        "hp": "https://kouwakai.jp/kouwa-clinic/about/",
-        "tel": "070-3858-7257,（中文）,微信：,wa07038587257",
-        "pcr": {
-          "result": "1 日",
-          "workday": "9:00—18:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "公益财团法人佐佐木研究所附属杏云堂医院",
-        "address": "東京都千代田区神田骏河台 1-8",
-        "hp": "https://www.kyoundo-hospital.jp/",
-        "tel": "03-3292-2058,（可中文）",
-        "pcr": {
-          "result": "当日",
-          "workday": "周一-周五 9:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団知慎会JTK クリニック",
-        "address": "東京都千代田区麹町 4-1-5 志村ビル 2 階",
-        "hp": "https://www.jtkclinic.com/HSR",
-        "tel": "03-6261-6386",
-        "pcr": {
-          "result": "当日",
-          "workday": "周一-周六 9:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団日中友好医院",
-        "address": "東京都渋谷区代々木 1－38－5 KDX 代々木ビル6 階",
-        "hp": "http://jcf-clinic.com/",
-        "tel": "03-6276-9788",
-        "pcr": {
-          "result": "1 日",
-          "workday": "9:30-17:00,周日、祝日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団佳有会品川イーストクリニック",
-        "address": "港区港南 2-15-2 品川インターシティB 棟 2 階",
-        "hp": "https://e-clinic.gr.jp/",
-        "tel": "03-5783-5521",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一-周五 10:30-18:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "亀田京橋クリニック",
-        "address": "東京都中央区京橋 3-1-1 東京スクエガーデン 4 階 6階",
-        "hp": "http://www.kameda-kyobashi.com/ja/index.html",
-        "tel": "03-3527-9100",
-        "pcr": {
-          "result": "当日",
-          "workday": "周一-周五 8:00-9:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "日比谷クリニック",
-        "address": "東京都千袋田区有楽町 1－7－1",
-        "hp": "https://hibiya-clinic.com/",
-        "tel": "03-3217-1105",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周五 10:00-12:30,14:30-17:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "株式会社日立製作所本社丸の内センタービル診療所",
-        "address": "東京都千代田区丸の内一丁目 6 番１号丸の内センタービル 12F",
-        "hp": "https://sasp.mapion.co.jp/b/hitachi/info/BA613595/?view=r",
-        "tel": "03-4235-4225",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周三,16:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "表参道ヘレネクリニック",
-        "address": "本院:東京都港区南青山 5-9-15 青山 OHMOTO ビル3 階検査会場:東京都港区南青山 5-7-23 始弘ビル１階",
-        "hp": "https://stemcells.jp/pcr_inspection/",
-        "tel": "03-3400-2277",
-        "pcr": {
-          "result": "当日",
-          "workday": "平日 10:00-13:30,15:00-19:00,周三、周日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医疗法人社团同济会えみクリニック东大前",
-        "address": "東京都文京区向丘 2-2-6ESTO HONGO 1 层",
-        "hp": "http://www.emiclinic.com/",
-        "tel": "03-3868-3528 中文,微信,emiclinictodaimae",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一-周日 9:00-20:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "上野ロイヤルガーデンクリニック",
-        "address": "東京都東上野 3-14-7 龍田ビル3 階",
-        "hp": "",
-        "tel": "03-5846-8378",
-        "pcr": {
-          "result": "1 日,最快 3 小时,以情况为准",
-          "workday": "周一-周日,9:00-12:00,14:00-17:00,周六日需提前预约,团体可上门取样"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団みき会サンフィールドクリニック",
-        "address": "東京都江東区青海 2-4-32 タイム24 ビル1 階",
-        "hp": "http://www.sunfield-c.com/pcrsm",
-        "tel": "03-3599-3311,080-4889-3726",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "周一-周五：9:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "いすゞ病院",
-        "address": "東京都品川区南大井 6-21-10",
-        "hp": "http://isuzu-hospital.jp/",
-        "tel": "03-5471-4611,邮箱,Juri_Tanaka@notes.,isuzu.co.jp",
-        "pcr": {
-          "result": "2 日",
-          "workday": "12:00-13:00（需提前联系）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人輝鳳会池袋クリニック",
-        "address": "東京都豊島区南池袋 1-25-11 第 15 野萩ビル 7 階",
-        "hp": "https://ganno-clinic.jp/clinic/ikebukuro.html",
-        "tel": "03-6914-0723",
-        "pcr": {
-          "result": "2 日",
-          "workday": "10:00-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "山岡クリニック",
-        "address": "東京都千代田区麹町 4-3 麹町富士ビル2F",
-        "hp": "https://www.yamaoka-clinic.com/",
-        "tel": "03-3264-5160",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "平日、周六 9:30-13:00,周日、祝日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "こたろクリニック",
-        "address": "東京都渋谷区笹塚 1－56－10 2 階",
-        "hp": "https://kotaro-clinic.com/",
-        "tel": "090-5925-1786（中文）,微信：,a09059251786",
-        "pcr": {
-          "result": "1 日",
-          "workday": "10:00—19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "KARADA 内科クリニック",
-        "address": "東京都品川区西五反田 1-2-8 FUNDES 五反田 10F",
-        "hp": "https://karada-naika.com/",
-        "tel": "03-3495-0192",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "10:00-13:00,15:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "グローバルヘルスケアクリニック",
-        "address": "東京都千代田区麹町 3-12-2 麹町 MS ビル",
-        "hp": "https://ghc.tokyo/",
-        "tel": "03-3222-8832",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "平日 10:00-18:00,周六 10-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "小石川インターナショナルクリニック",
-        "address": "東京都文京区白山 2-29-4",
-        "hp": "https://www.kic.clinic/",
-        "tel": "03-6757-2060",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "9:30-16:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団ナチュラルハーモニーナチュラルハーモニークリニック表参道",
-        "address": "東京都渋谷区神宮前 6-25-14   神宮前メディアスクエアビル５F",
-        "hp": "https://natucli.com/",
-        "tel": "03-3400-7200",
-        "pcr": {
-          "result": "2 日",
-          "workday": "周一-周六 10:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "東京高輪病院",
-        "address": "東京都港区高輪 3 丁目 10 番 11 号",
-        "hp": "https://takanawa.jcho.go.jp/",
-        "tel": "03-3443-9191",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周五 9：00-15：00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "西新橋クリニック",
-        "address": "東京都港区西新橋 2-4-3 プロス西新橋 2 階",
-        "hp": "https://www.tramedic.com/",
-        "tel": "03-3519-6677",
-        "pcr": {
-          "result": "2 日",
-          "workday": "周一-周六,12:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "THE KING CLINIC",
-        "address": "東京都渋谷区神宮前 6-31-11 iori 表参道 B1F",
-        "hp": "https://Thekingclinic.com",
-        "tel": "03-3400-7522",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周六（周三休）,10:00-12:00,13:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "T ケアクリニック浜松町",
-        "address": "東京都港区浜松町 2-13-9",
-        "hp": "",
-        "tel": "03-5422-1011",
-        "pcr": {
-          "result": "1 日",
-          "workday": "11:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "インターナショナルヘルスケアクリニック",
-        "address": "東京都港区新橋 2-10-5 末吉ビル 3 階",
-        "hp": "",
-        "tel": "03-3501-1330",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一-周五 9:00-18:15,（周末、祝日请提前咨询机构）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "東京ビジネスクリニック八重洲北口",
-        "address": "東京都千代田区丸の内 1-8-2 鉄鋼ビル地下一階",
-        "hp": "",
-        "tel": "03-6268-0079",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周六 9:00-18:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団進興会東京ダイヤビルクリニック",
-        "address": "東京都中央区新川 1-28-25 東京ダイヤビルディング 3号館 1F",
-        "hp": "https://www.daiya-clinic.jp/pcrtestp",
-        "tel": "080-2192-0710,（中文）",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "周一、二、三 9:00-17:00,周一、二 14:00-17:00,（详询机构）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "銀座みやこクリニック",
-        "address": "東京都中央区銀座 3-10-15 東銀 2 ビル 6 階",
-        "hp": "",
-        "tel": "03-6228-4112",
-        "pcr": {
-          "result": "0-1 日",
-          "workday": "11:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "ヒラハタクリニック",
-        "address": "東京都渋谷区渋谷 1-24-6 マトリクスツービル9 階",
-        "hp": "",
-        "tel": "03-3400-3288",
-        "pcr": {
-          "result": "2 日",
-          "workday": "鼻咽头检查：,周一二四五 15:30-20:00,唾液检查：,周一-周五 15:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "大森町駅前内科小児科クリニック",
-        "address": "東京都大田区大森西 3-20-9   １階",
-        "hp": "https://omorimachi.com",
-        "tel": "03-6423-0428",
-        "pcr": {
-          "result": "1 日",
-          "workday": "平日 9:00-12:00,15:00-18:00,周末、 祝日 9:00-12:00,14:00-15:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "恵比寿クリニック",
-        "address": "東京都渋谷区恵比寿 4-1-18 恵比寿ネオナート２階",
-        "hp": "",
-        "tel": "03-3440-3131",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "平日 9:00-12:00，14:00-17:00,周六 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "千駄ヶ谷インターナショナルクリニック",
-        "address": "東京都渋谷区千駄ヶ谷 1-20-3 バルビゾン11 号館 203号室",
-        "hp": "",
-        "tel": "03-3478-4747",
-        "pcr": {
-          "result": "2 日",
-          "workday": "平日 10:00-12:30,15:00-17:30,周六 9:00-14:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団裕恒会G クリニック",
-        "address": "東京都中央区銀座 5-3-13 GINZA SS85 ビル 12 階",
-        "hp": "",
-        "tel": "03-3572-3860",
-        "pcr": {
-          "result": "1 日",
-          "workday": "10:00-17:00,周四、日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "協和医院",
-        "address": "東京都台東区台東 4-8-5",
-        "hp": "",
-        "tel": "03-3835-0186",
-        "pcr": {
-          "result": "2 日",
-          "workday": "周一，二，四，五，日,9:00-12:00，13:30-17:30,周六 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "ライフサイエンス健診クリニック",
-        "address": "東京都中央区日本橋堀留町 2-6-6ライフサイエンスビル 3 階",
-        "hp": "",
-        "tel": "03-5652-0808",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "平日 9:00-12:00，14:00-15:30,周四下午休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団桜伸会サンテクリニック",
-        "address": "東京都中央区銀座 8-12-15 全国燃料会館ビル2 階",
-        "hp": "https://sante-clinic.jp/",
-        "tel": "03-5565-9800",
-        "pcr": {
-          "result": "0-1 日",
-          "workday": "周一-周六 10:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "浅草橋駅前総合クリニック",
-        "address": "東京都台東区浅草橋 1-30-9 ヒューリック浅草橋江戸通 5 階",
-        "hp": "https://reserva.be/asakusapcr/pcrak",
-        "tel": "08074347444",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "平日、周六 10:00-17:00,周日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "アイムビューティーメディカルクリニック",
-        "address": "東京都港区高輪二丁目 19 番 20 号 財界二世学院ビル8階",
-        "hp": "https://www.covid19test.jp/html/pcrav",
-        "tel": "07042221640",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "平日 09:00-13:00,09:00-18:00,周日、祝日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "やまとむら歯科",
-        "address": "東京都豊島巣鴨 1-4-18",
-        "hp": "https://kouwakai.jp/yamatomurashika/about",
-        "tel": "070-3858-7210,微信：,a07038587210",
-        "pcr": {
-          "result": "1 日",
-          "workday": "10:00—19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "東京",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "東京 TMS クリニック",
-        "address": "東京都渋谷区恵比寿西 1-1-2 しんみつビル 5 階",
-        "hp": "https://tms-clinic.jp/travel-Corona",
-        "tel": "https://form.run/@info-1602678867",
-        "pcr": {
-          "result": "当日",
-          "workday": "10:30-13:30,16:30-19:00（周一至,周日，全年无休）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "横滨医院",
-        "address": "横滨市中区山下町 211-8-101",
-        "hp": "http://yokohamaclinic.com/",
-        "tel": "045-228-8321",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一、二、三、五、六,9:30-12:00,14:00-16:00,周四、周日下午 14:00-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "沖縄徳洲会湘南鎌倉総合病院",
-        "address": "神奈川県鎌倉市岡本 1370-1",
-        "hp": "",
-        "tel": "0467-46-1717",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "检测时间 14:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "AOI 國際醫院(AOI 国際病院)",
-        "address": "神奈川県川崎市川崎区田町 2-9-1",
-        "hp": "http://www.aoikai.jp/aoiuniversalhospital/pcrtestn",
-        "tel": "070-48040169 （中文）",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "9:00-12:00,14:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団和光会総合川崎臨港病院",
-        "address": "神奈川県川崎市川崎区中島 3-13-1",
-        "hp": "http://rinko.or.jp/",
-        "tel": "044-233-9336",
-        "pcr": {
-          "result": "1 日",
-          "workday": "平日 10:00-20:00,周末、祝日 10:00-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "横浜エムエムクリニック",
-        "address": "横浜市西区みなとみらい3-3-1 三菱重工横浜ビル 3F",
-        "hp": "https://www.mmclinic.jp/news/detail04.shtml?1595399533",
-        "tel": "045-225-8633",
-        "pcr": {
-          "result": "2 日",
-          "workday": "周一-周五,9:00-12:00,14:00-16:00,周六：9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団 TCJ トラベルクリニック新横浜",
-        "address": "横浜市港北区新横浜 2-13-6 第一 KS ビル ３階",
-        "hp": "",
-        "tel": "045-470-1011",
-        "pcr": {
-          "result": "２日",
-          "workday": "检测时间周二-周六,14:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "藤沢善行ファミリークリニック",
-        "address": "神奈川県藤沢市善行 7-4-9",
-        "hp": "",
-        "tel": "080-3500-2826",
-        "pcr": {
-          "result": "2 日",
-          "workday": "周一-周六 9:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "たま耳鼻咽喉科",
-        "address": "神奈川県川崎市多摩区登戸１８４２ M’s core 1F",
-        "hp": "https://www.tamajibi.jp/",
-        "tel": "090-2842-0736,微 信 ：,tama07038587265",
-        "pcr": {
-          "result": "1 日",
-          "workday": "9:30-18:30（周日休）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "誠友クリニック",
-        "address": "神奈川県横浜市中区山下町 224-2 パークポイント山下町１階",
-        "hp": "",
-        "tel": "045-264-9267/045-2,64-9286",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一、周二、周四、周五 9:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "本牧ベイサイドクリニック",
-        "address": "神奈川県横浜市中区本牧原 1-22",
-        "hp": "http://www.bayside-cl.com/",
-        "tel": "045-628-0622",
-        "pcr": {
-          "result": "2 日",
-          "workday": "月・火：9:00-12:00、14:00-17:00,水：9:00-12:00,木・金：14:00-17:00,土：14:00-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "神奈川",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "本厚木かかりつけクリニック",
-        "address": "神奈川県厚木市中町 3-1-15",
-        "hp": "http://kakakuri.com",
-        "tel": "046-297-1919",
-        "pcr": {
-          "result": "1 日",
-          "workday": "9:00-20:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "千葉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "柏の葉ゲノムクリニック",
-        "address": "千葉県柏市 若柴 178 番地 4 柏の葉キャンパス１４８",
-        "hp": "http://www.seifjapan.com/index/pcr/",
-        "tel": "080-3499-6428",
-        "pcr": {
-          "result": "2 日",
-          "workday": "平日 9:00-17:00,周日、祝日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "千葉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "亀田クリニック/亀田総合病院",
-        "address": "鴨川市東町 929 番地",
-        "hp": "http://www.kameda.com",
-        "tel": "T:04-7099-2211,（6313）,F:04-7099-2301",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一-周五 8:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "千葉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団翠柏会かしわ沼南みらいクリニック",
-        "address": "千葉県柏市大津ケ丘 1-45-5",
-        "hp": "https://www.mirai-clinic.net/",
-        "tel": "邮箱,covid19@mirai-clin,ic.net,04-7191-3133",
-        "pcr": {
-          "result": "1 日",
-          "workday": "平日 11:45-17:00,周三、周六上午营业"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "千葉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団良知会共立習志野台病院",
-        "address": "千葉県船橋市習志野台4-13-16",
-        "hp": "https://www.kyoritsunarasinodai.or.jp/pcrxy",
-        "tel": "070-4804-0168,（有中文）",
-        "pcr": {
-          "result": "1-2日",
-          "workday": "平日8:30-15:30,周末9:00 -12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "千葉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "柏たなか病院",
-        "address": "千葉県柏市小青田 1 丁目 3 番地 2",
-        "hp": "http://www.aoikai.jp/kashiwatanaka/pcrtesto",
-        "tel": "070-4804-0170,（中文）",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "9:00-12:00、14:00-16:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "千葉",
-        "en": "Chiba"
-      },
-      "facility": {
-        "name": "そが耳鼻咽喉科・アレルギー科",
-        "address": "千葉県千葉市中央区南町 2-15-15KS ・ＨＯＹＯビル４階",
-        "hp": "https://soga-ent.com/",
-        "tel": "043-305-1133",
-        "pcr": {
-          "result": "2 日",
-          "workday": "月・水・木・金：9:00-13:00、,14:30-18:00 土：9:00-13:00、,14:30-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "公平病院",
-        "address": "戸田市笹目南町 20-16",
-        "hp": "https://kodaira.life/",
-        "tel": "T:048-421-3030,F:048-422-2620",
-        "pcr": {
-          "result": "2 日",
-          "workday": "14:30-16:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "ふかやクリニック",
-        "address": "深谷市宿根 245-1",
-        "hp": "https://fukayaseikei.jp/",
-        "tel": "048-574-0022",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周四 15:00-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人ひかり会パーク病院",
-        "address": "埼玉県白岡市千駄野 1086-1",
-        "hp": "",
-        "tel": "0480-91-6200",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "周一至周六 9:00-17:30,周日 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "しおや消化器内科クリニック",
-        "address": "さいたま市中央区本町東 3-3-3",
-        "hp": "https://www.shioya-clinic.com/",
-        "tel": "090-1804-6340,微信：xiaoyuriben",
-        "pcr": {
-          "result": "1 日",
-          "workday": "9:00-18:00 周六休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "行田総合病院",
-        "address": "埼玉県行田市持田 376",
-        "hp": "http://gyoda-hp.or.jp/",
-        "tel": "048-552-1111",
-        "pcr": {
-          "result": "当日～1 日",
-          "workday": "10:00-10:30、14:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "はせがわクリニック",
-        "address": "埼玉県入間市豊岡 4-6-3",
-        "hp": "http://gyoda-hp.or.jp/",
-        "tel": "042-968-3721",
-        "pcr": {
-          "result": "1 日",
-          "workday": "8:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "ふじみの救急クリニック",
-        "address": "埼玉県入間郡三芳町北永井 997-5",
-        "hp": "https://koyu-kai.jp/",
-        "tel": "049-274-7666",
-        "pcr": {
-          "result": "1 日",
-          "workday": "9:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "埼玉",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "新田駅前内科クリニック",
-        "address": "埼玉県草加市金明町 371 風の道ハウス２階Ｃ",
-        "hp": "https://huaclinic.com",
-        "tel": "048-954-5362",
-        "pcr": {
-          "result": "2 日",
-          "workday": "月・火・木・金：9:00-18:00,土：9:00-13:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "群馬",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "静内科",
-        "address": "高崎市小八木町 799-1",
-        "hp": "https://shizukanaika.com/",
-        "tel": "027-370-0777",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一-周六 7:30-12:00,周一、三、五 17:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "群馬",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "本沢医院",
-        "address": "群馬県渋川市石原 208-1",
-        "hp": "http://www.honzawaiin.com/",
-        "tel": "0279-23-6411,（日语、英语）",
-        "pcr": {
-          "result": "1 日",
-          "workday": "13:30-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "群馬",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "医療法人社団 松寿会松山医院",
-        "address": "群馬県前橋市本町1丁目1-3AMDビル医療モール（サーパス県庁前通り）",
-        "hp": "http://matsuyamaiin.com/pcrtest",
-        "tel": "080-3410-7535,（有中文）",
-        "pcr": {
-          "result": "1-2日",
-          "workday": "10:00-13:00,14:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "山梨",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "きたむらクリニック",
-        "address": "山梨県中央市若宮 23 番地 2",
-        "hp": "https://www.kitamura-clinic.jp/",
-        "tel": "T055-220-4112,F055-220-4113",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周五采样时间,12:30-13:00,周四休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "山梨",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "西野内科医院",
-        "address": "山梨県中央市山之神 2389-1",
-        "hp": "",
-        "tel": "055-273-6656",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周五 8:30-12:30,15:00-18:00,周六 8:30-12:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "茨城",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "筑波メディカルセンター病院",
-        "address": "つくば市天久保 1-3-1",
-        "hp": "http://www.tmch.or.jp/hosp/",
-        "tel": "T029-851-3511,F029-858-2773",
-        "pcr": {
-          "result": "当日",
-          "workday": "周一-周五采样时间,12:30-13:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "茨城",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "那珂キッズクリニック小児科",
-        "address": "茨城県那珂市竹ノ内 3-2-2",
-        "hp": "http://www.naka-kids.com/",
-        "tel": "029-212-5630",
-        "pcr": {
-          "result": "1 日～2 日",
-          "workday": "9:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "茨城",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "総合守谷第一病院",
-        "address": "茨城県守谷市松前台 1-17",
-        "hp": "https://www.moriya.daiichi.or.jp/",
-        "tel": "029-745-5111",
-        "pcr": {
-          "result": "1 日",
-          "workday": "月・火・水・木・金：,10:00-10:30、13:00-13:30,土：8:15-8:45"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "栃木",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "宇都宮記念病院総合健診センター",
-        "address": "宇都宮市大通り 1-3-16",
-        "hp": "http://kenshin.nakayamakai.com/",
-        "tel": "028-625-7831",
-        "pcr": {
-          "result": "1 日",
-          "workday": "周一-周五 09:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "栃木",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "てらだファミリークリニック",
-        "address": "宇都宮市雀の宮 5-5-1",
-        "hp": "http://terada-family-clinic.jp/index.php?go=nNfKXz",
-        "tel": "028-654-2188",
-        "pcr": {
-          "result": "2 日内",
-          "workday": "周一-周六采样时间 11:30-12:00,周四休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "静岡",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "静岡厚生病院",
-        "address": "静岡県静岡市葵区北番町 23",
-        "hp": "https://ja-shizuokakosei.jp/",
-        "tel": "054-271-7177",
-        "pcr": {
-          "result": "2 日",
-          "workday": "周一-周五 8:00-11:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "静岡",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "チルドレンクリニック",
-        "address": "静岡県浜松市中区高丘東 4-5-30",
-        "hp": "https://www.children-clinic.com/",
-        "tel": "053-420-6111",
-        "pcr": {
-          "result": "2 日",
-          "workday": "周一-周五采样时间 11:30-12:00,周末可协商"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "静岡",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "遠藤クリニック",
-        "address": "静岡県富士市神谷 527-1",
-        "hp": "https://endo-cl.jp/",
-        "tel": "0545-34-0048",
-        "pcr": {
-          "result": "1 日",
-          "workday": "8:00-11:30,16:00-18:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "静岡",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "三上内科小児科医院",
-        "address": "静岡県磐田市鎌田 865-2",
-        "hp": "https://www.mikamiclinic.com/",
-        "tel": "0538-37-0802",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一，周二，周三，周五,8:30-12:00,15:00-18:00,周六 8:30-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "長野",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "丸子中央病院",
-        "address": "長野県上田市中丸子 1771-1",
-        "hp": "https://maruko-hp.jp/medical-personnel/",
-        "tel": "0268-42-1111",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "周一、周三：9:00-11:30,其他时间可协商"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "長野",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "清水外科胃肠科医院",
-        "address": "長野県塩尻市広丘吉田 294-2",
-        "hp": "http://www.shimizugeka.jp",
-        "tel": "0263-58-2474",
-        "pcr": {
-          "result": "1-2 日",
-          "workday": "平日 8:30 -18:00,周六 8:30-2:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "長野",
-        "en": "Chiyodaku"
-      },
-      "facility": {
-        "name": "やざわ虎クリニック",
-        "address": "長野県諏訪市高島 1-21-14",
-        "hp": "https://yazawa-tora-clinic.com/",
-        "tel": "0266-57-8300",
-        "pcr": {
-          "result": "2日内",
-          "workday": "平日 8:30-12:00、15:00-18:00,周末、祝日休"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "長野",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "岡谷市民病院",
-        "address": "長野県岡谷市本町四丁目 11 番 33 号",
-        "hp": "https://www.okaya-hosp.jp/",
-        "tel": "0266-23-8000",
-        "pcr": {
-          "result": "2 日",
-          "workday": "平日 13:00-13:10，,周六 10:50-11:00（请提前预约）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "1.上本町わたなべ クリニック",
-        "address": "大阪府大阪市天王寺区上之宮町１－15https://www.uehonmachi.jp/",
-        "hp": "",
-        "tel": "电话：06-6772-0075传真：06-6772-0083",
-        "pcr": {
-          "result": "当天-1 天",
-          "workday": "周一-周六,（其中周三、六仅上午）：上午：09:00-12:00,下午：16:00-19:00,（有紧急检测通道）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "2.うつぼ Garden Clinic",
-        "address": "大阪府大阪市西区京町堀 1-3-13 辰巳ビル 1 階https://utsubo-garden-clinic.com/",
-        "hp": "",
-        "tel": "电话：06-6136-6408",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周五（第 2 个、第 4 个周五休息）：,上午：10:00-14:00下午：15:00-18:00,周六：仅 10:00-14:00（第 2,个、第 4 个周六休息）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "3.医療法人太融寺町谷口医院",
-        "address": "大阪府大阪市北区太融寺町4-20-4F すてらめいとビル 4Fhttps://t-internationalclinic.jp/",
-        "hp": "",
-        "tel": "电话：06-6364-4177",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周三、周五： 11:30-13:15,周六：10:30-13:15"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "4.くぼたこどもクリニック",
-        "address": "大阪府大阪市生野区勝山北 2-6-18http://www.kubota-kids.com/",
-        "hp": "",
-        "tel": "电话：06-7894-1100传真：06-7894-1101",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周六,09:00（最宜，其他时间视情）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "5.医療法人大植医院",
-        "address": "大阪府岸和田市大町 3-3-4",
-        "hp": "https://ohue.jp/",
-        "tel": "电话：072-445-2662传真：072-441-7700",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周六 08:30-11:00、,周一、二、四、五 17：30～ 19：30 无需预约可直接前往"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "6.関西医科 大学総合医療センター",
-        "address": "大阪府守口市文園町 10－15",
-        "hp": "http://www.kmu.ac.jp/takii/",
-        "tel": "电话:06-6992-1001",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一、周三、周五 09:00-11:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "7.西梅田シティクリニック",
-        "address": "大阪府大阪市北区堂島１丁目堂島地下街 5 号",
-        "hp": "https://nishiumeda.city-clinic.jp/",
-        "tel": "电话：06-4797-7009传真：06-4797-7010",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周五： 09:30-22:00,（13:30-16:30 需提前联系）,周六：09:30-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "8.よどやばしメディカルクリニック",
-        "address": "大阪府大阪市中央区北浜 ３丁目５−２０松栄ビル 4F",
-        "hp": "http://yodoyabashi-medclinic.com/",
-        "tel": "电话：06-6233-4976,传真：06-6233-4977",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周六 10:00-12:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "9.AYクリニック",
-        "address": "大阪府大阪市西区北堀江 1-2-19 アステリオ北堀江ザ・メトロタワー 5F",
-        "hp": "http://www.ay-clinic.com/",
-        "tel": "电话：06-6110-7005",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周五 15:00-18:30（周六可进行抗体检测）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "10.医療法人光明会 もりあきクリニック",
-        "address": "大阪府箕面市船場西三丁目 8 番 11 号 1F",
-        "hp": "https://moriaki-clinic.net/",
-        "tel": "电话：072-726-0078",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周六 09:00-12:30,周一、二、三、五 16:30-19:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "11.足立内科クリニック",
-        "address": "大阪府大阪市旭区清水 ３丁目１−１４",
-        "hp": "https://www.adachi-naikaclinic.jp/",
-        "tel": "检测专用电话：06-6955-6700,06-6167-6065,法人专用电话：06-6958-5150 ",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周五 09:00-13:00,（其他时间可商谈）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "12.パナソニック健康保険組合松下記念病院",
-        "address": "大阪府守口市外島町5 番 55号",
-        "hp": "https://phio.panasonic.co.jp/kinen/",
-        "tel": "电话：0120-130-533",
-        "pcr": {
-          "result": "当天",
-          "workday": "周一-周五 08:00 -10:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "13.医療法人誠信会  三和クリニック",
-        "address": "大阪市東住吉区照ヶ丘矢田 1-17-7",
-        "hp": "http://sanwa-cl.jp/",
-        "tel": "电话:06-6777-8802",
-        "pcr": {
-          "result": "当天",
-          "workday": "周一-周日 9:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "14. ラッフルズメディカル大阪クリニック",
-        "address": "大阪市北区梅田 2-5-25ハービス PLAZA4F",
-        "hp": "http://www.raffles-osaka.com",
-        "tel": "电话：06-6345-8145,传真：06-6345-8146",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周五 16:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "15.すぎた内科クリニック",
-        "address": "大阪市西区江戸堀2-6-25  土佐堀ビューハイツ 103",
-        "hp": "https://sugitaclinic.com/",
-        "tel": "电话：06-6225-7822",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周二、周四-周六 9:30-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "16. リセリングクリニック大阪再生医療センター",
-        "address": "大阪市北区天満橋1-8-40 帝国ホテルプラザ 2 階",
-        "hp": "http://www.ormc.jp/guide.html",
-        "tel": "电话：06-6881-1605、 06-6357-3456",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周三、周五-周六 11:00-16:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "17.大山クリニック",
-        "address": "大阪府泉北郡忠岡町忠岡東 1-40-28",
-        "hp": "https://www.oyamaclinic.com/",
-        "tel": "电话：0725-32-1831",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周六 9:00-1200,周一-周三、周五17:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "18.ありずみ消化器内科",
-        "address": "大阪府大阪市西区南堀江 ２丁目４−１はなさきビル 3 階（スギ薬局内のエレベーターもしくは階段から 3階へ）",
-        "hp": "https://arizumi-clinic.com/access.html",
-        "tel": "电话：06-6648-8554",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周六 9:00-12:00,（周四、周日休诊）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "19.医療法人 SKY  スカイ整形外科クリニック",
-        "address": "大阪府茨木市双葉町 10－1  茨木東阪急ビル 1F",
-        "hp": "http://skyclinic.jp/",
-        "tel": "电话：072-638-2121",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周五 9:00-18：00周六 9:00-14:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "20.野江内代クリニック",
-        "address": "大阪市城東区野江 4 丁目1 番 8 号－101",
-        "hp": "https://www.mentalcl.com/",
-        "tel": "电话：06-6932-4970",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周六 11:00-13:00、 14:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "21.医療法人昭征会 さかのクリニック",
-        "address": "大阪府枚方市東牧野町28 番 15 号",
-        "hp": "https://www.sakano-cl.com/",
-        "tel": "电话：072-857-1159",
-        "pcr": {
-          "result": "当天",
-          "workday": "周一-周日 10:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "22.AC クリニック",
-        "address": "大阪市都島区片町1-5-13 大手前センチュリービル 1 階",
-        "hp": "",
-        "tel": "电话：06ｰ6360ｰ9933 https://acclinic.jp/",
-        "pcr": {
-          "result": "当天",
-          "workday": "周一-周日 10:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "23.たつみ内科クリニック",
-        "address": "大阪府茨木市新中条町1-30 ビエラ茨木新中条2 階",
-        "hp": "",
-        "tel": "电话：072-631-1810传真：072-631-1815",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周五（周四下午休息） 08:30-09:00  15:30-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "24.野崎徳洲会病院",
-        "address": "大阪府大東市谷川 2 丁目10 番 50 号",
-        "hp": "https://nozaki.tokushukai.or.jp/",
-        "tel": "电话：072-818-0035",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周五 09:00-15:00,周六 09:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "25.済生会新泉南病院",
-        "address": "大阪府泉南市りんくう南浜 3 番 7",
-        "hp": "https://saiseikaisennan.jp/hospital/index.html",
-        "tel": "电话：072-480-5618",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一、周二、周三下午 1:00后（具体时间电话预约）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "大阪府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "26.ミナミ心斎橋クリニック",
-        "address": "大阪府大阪市中央区博労町2 丁目6-7 大バスビル心斎橋１F",
-        "hp": "网址：https://osakacl.com",
-        "tel": "电话：06-6281-0022,06-6583-9900",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周日(全年无休） 9:00-13:00/14:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "兵库县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "27.阿部内科医院",
-        "address": "兵庫県神戸市須磨区神の谷 7 丁目 1-3",
-        "hp": "https://abe-naika-iin.com/",
-        "tel": "电话：078-794-1234",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周四 12:00～13:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "兵库县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "28.芦屋メディカルコミュニティ坂本泌尿器科",
-        "address": "兵庫県芦屋市朝日ヶ丘町39-1",
-        "hp": "",
-        "tel": "电话：0797-35-5661传真：0797-62-8639",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周五： 12:00～14:00,（也可根据需要另行安排）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "兵库县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "29.やまさきファミリークリニック",
-        "address": "兵庫県尼崎市御園町 54番地カーム尼崎 3F",
-        "hp": "https://yamasaki-family-clinic.com/",
-        "tel": "电话：06-6430-0567传真：06-6430-0568",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一、二、三、五 09:00-12:00  14:00-19:00,周四 09:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "兵库县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "30.THE WELLNESS CLINIC",
-        "address": "兵庫県神戸市中央区伊藤町 110-2 YANAGIDAビル 9F",
-        "hp": "http://the-wellness-clinic.jp",
-        "tel": "电话：078-392-5088传真：078-392-5089",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一、二、四、五 13:30-17:00,周六 13:00-15:30,（其余时间段另询）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "兵库县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "31.国立病院機構 兵庫あおの病院",
-        "address": "兵庫県小野市市場町 926-453",
-        "hp": "https://hyogoaono.hosp.go.jp/",
-        "tel": "电话：0794-62-5533传真：0794-62-5757",
-        "pcr": {
-          "result": "1 天",
-          "workday": "工作日 9:30-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "兵库县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "32.神戸国際医療連携クリニック",
-        "address": "中央区加納町１ー３ー２コトノハコ神戸１階",
-        "hp": "https://kicc-medical.jp/",
-        "tel": "电话：078-221-5777",
-        "pcr": {
-          "result": "1 天",
-          "workday": "9：00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "京都府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "33.とみえクリニック",
-        "address": "京都府京都市下京区七条御所ノ内本町８９－１ クリニックモール西大路 １階",
-        "hp": "https://www.tomie-cl.com/",
-        "tel": "电话：075-322-8800传真：075-322-8811",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周五,09:00-12:00  16:00-18:30,周末及节假日 09:00-11:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "京都府",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "34.医療法人財団康生会武田病院",
-        "address": "京都市下京区塩小路通西洞院東入東塩小路町841-5",
-        "hp": "https://www.takedahp.or.jp/",
-        "tel": "电话：075-361-1351传真：075-361-1268",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一、二、三、五 09:00-12:00,16:00-18:30,周六 09:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "奈良县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "35.医疗法人拓生会奈良西部病院",
-        "address": "奈良県奈良市三碓町2143-1",
-        "hp": "http://naraseibu-hp.com/",
-        "tel": "电话：074-251-8700",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周二：09:00-11:00 周三：09:00-11:00、 13:00-15:00,周五：09:00-11:00、,13:00-14:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "滋贺县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "36.医療法人みやこ  みやこクリニック",
-        "address": "滋賀県長浜市湖北町速水2778",
-        "hp": "https://www.miyakoclinic.net/",
-        "tel": "电话：0749-78-1884传真：0749-78-8058",
-        "pcr": {
-          "result": "1-2 天",
-          "workday": "周一-周三、周五、周六 12:45-14:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "滋贺县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "37.公益財団法人滋賀県健康づくり財団",
-        "address": "滋賀県大津市御殿浜6-28",
-        "hp": "http://www.kenkou-shiga.or.jp/",
-        "tel": "电话：(077) 536-5210",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周五 9:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "和歌山县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "38.生馬医院",
-        "address": "和歌山県和歌山市吉田436",
-        "hp": "http://www.ikomaiin.com/",
-        "tel": "电话：073-422-1458",
-        "pcr": {
-          "result": "当天-2 天",
-          "workday": "周一至周六上午 09：30-12： 30，周一至周三、周五下午,15：00-19：00,（有紧急检测通道）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "冈山县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "39.岡山市立市民病院",
-        "address": "岡山県岡山市北区北長瀬表町 3-20-1",
-        "hp": "https://okayama-gmc.or.jp/shimin/",
-        "tel": "电话：086-737-3000传真：086-737-3011",
-        "pcr": {
-          "result": "当天-2 天",
-          "workday": "工作日 09:00、13:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "冈山县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "40.川崎医科大学附属病院",
-        "address": "岡山県倉敷市松島 577",
-        "hp": "https://h.kawasaki-m.ac.jp/",
-        "tel": "电话：086-462-1111",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一至周四 09:30-10:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "冈山县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "41.黒田医院",
-        "address": "岡山県岡山市北区神田町 ２－８－３５",
-        "hp": "http://www.kuroda-group.or.jp/",
-        "tel": "电话：086-233-3531",
-        "pcr": {
-          "result": "1 天-2 天",
-          "workday": "周一-周日 11:00、12:15、 14:00、16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "广岛县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "42.大村クリニック  内科・循環器内科",
-        "address": "広島県広島市佐伯区新宮苑 3-32",
-        "hp": "http://www.omura-clinic.com/",
-        "tel": "电话：082-922-0010",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周五 09:00-12:30、 14:30-18:30，周六,09:00-13:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "广岛县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "43.医療法人あわや内科クリニック",
-        "address": "広島県廿日市市佐方 4-4-13",
-        "hp": "https://www.awaya-clinic.com/",
-        "tel": "电话：0829-34-0288",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一、二、三、五 09:00-12:30  15:00-18:00,周四、六  09:00-12:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱媛县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "44.かとうクリニック",
-        "address": "愛媛県新居浜市船木4322-2",
-        "hp": "http://katoclinic.biz/",
-        "tel": "电话：0897-40-2400",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周五 13:00-14:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱媛县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "45.矢野内科",
-        "address": "愛媛県松山市東長戸1-10-18",
-        "hp": "",
-        "tel": "电话：089-922-5522",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一、二、三、五：12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱媛县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "46.おちクリニック 内科・循環器内科",
-        "address": "愛媛県今治市馬越町1-2-28",
-        "hp": "https://clinic-ochi.com/",
-        "tel": "电话：0898-34-5055",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周五 12:00-12:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "香川县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "47.一般社団法人サンテペアーレ  サンテペアーレクリニック",
-        "address": "香川県丸亀市大手町 3-3-21",
-        "hp": "https://santepeare.com",
-        "tel": "电话：0877-23-8700",
-        "pcr": {
-          "result": "2 天",
-          "workday": "周一-周六 10:00-11:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "香川县",
-        "en": "Osaka"
-      },
-      "facility": {
-        "name": "48.高松画像診断クリニック",
-        "address": "香川県高松市朝日町 2 丁目 7-23",
-        "hp": "https://image.nishitakamatsu.jp",
-        "tel": "电话：087-811-5588",
-        "pcr": {
-          "result": "1 天",
-          "workday": "周一-周六 09:00-18:00,（其他时间预约电话： 090-1579-7687）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "1.博多ひのきクリニック",
-        "address": "福岡県福岡市博多区博多駅南１丁目８−３４７Ｆ",
-        "hp": "网站：https://hinoki-clinic.com/",
-        "tel": "TEL：092-477-7216",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周五 9 点至 17 点、周六、日 9 点至 13点。每周三及日本法定节假日休息"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "2.城山国際医院",
-        "address": "福岡県福岡市馬出1-10-2    7 階",
-        "hp": "网站：https://c2j-clinic.com/",
-        "tel": "TEL：  092-645-2177",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周六 9:00~18:00（周日及法定休息日,除外）"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "3.医療法人海陽会まえだクリニック",
-        "address": "福岡県福岡市東区香椎照葉３丁目４−５  I.C.メディカルビル  2F",
-        "hp": "网站：https://www.islandcity-maeda-clinic.com/",
-        "tel": "TEL：092-410-5222 FAX：092-410-5212",
-        "pcr": {
-          "result": "周六检测者，周日上午接诊时间内交付结果",
-          "workday": "周日休诊"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "4.博多南ビル内科クリニック",
-        "address": "福岡県福岡市博多区博多駅南 1-3-11  KDX 博多南ビル 4 階",
-        "hp": "网站：https://medkyu.com/",
-        "tel": "TEL：092-451-3030",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周五：9:00-17:00周六：9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "5.福岡大学病院",
-        "address": "福岡市城南区七隈七丁目 45 番 1 号    福岡大学病院   本館１階 海外旅・ワクチン外来",
-        "hp": "网站：https://www.hop.fukuoka-u.ac.jp/department/02/vaccine.html",
-        "tel": "hTEL：092-801-1011",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周四（节假日除外） 9:00-11:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "6.健和会  大手町病院感染症内科",
-        "address": "福岡県北九州市小倉北区大手町 15-1",
-        "hp": "网站：https://otemachi.kenwakai.gr.jp/",
-        "tel": "TEL：093-592-5511",
-        "pcr": {
-          "result": "当天可取",
-          "workday": "预约时间：周一至周五 14:00-16:00,检测时间：周一至周五 9 点检测"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "7.岩本内科医院",
-        "address": "福岡県北九州市小倉南区下石田 1-2-8",
-        "hp": "网站：https://iwamoto-clinic.jp/",
-        "tel": "TEL：093-961-4118",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周五：11:30/16:00周六：11:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "8.さくらクリニック",
-        "address": "福岡県糸島市篠原東１－１３－３",
-        "hp": "网站：http://cl-sakura.jp/",
-        "tel": "TEL:092-332-2330",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周五 09:00-13:15;14:00-17:00,周六 09:00-14:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "9.医療法人  鎮寿会前野クリニック",
-        "address": "福岡県那珂川市仲1 丁目 ５６",
-        "hp": "网站：https://maeno-clinic.jp/",
-        "tel": "TEL：092-954-1812",
-        "pcr": {
-          "result": "",
-          "workday": "平日 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福冈县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "10.飯塚病院感染症科",
-        "address": "福岡県飯塚市芳雄町３丁目８３",
-        "hp": "网站：https://aih-net.com/depts/kansen/vaccines.php",
-        "tel": "TEL：0948-29-8916 FAX：0948-29-8920",
-        "pcr": {
-          "result": "",
-          "workday": "周六日、祝日休息"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "佐贺县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "11.伊万里有田共立病院",
-        "address": "佐賀県西松浦郡有田町二ノ瀬甲 860",
-        "hp": "网站：http://www.imari-arita-hp.or.jp/covid19.html",
-        "tel": "TEL：0955-46-2121 FAX：0955-46-2823",
-        "pcr": {
-          "result": "周一至周四检测：第二天 17 点后；周五检测：第二周平日十点后",
-          "workday": ""
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "佐贺县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "12.蓮台寺クリニック",
-        "address": "熊本県熊本市西区蓮台寺３丁目４−３",
-        "hp": "网站：https://rendaiji-clinic.com/",
-        "tel": "TEL:096-355-2810",
-        "pcr": {
-          "result": "",
-          "workday": "周一 9:00-17:30,周二至周五 9:00-12:30,周六 8:30-12:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "熊本県",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "13.安成医院",
-        "address": "熊本県玉名郡玉東町木葉 755-6",
-        "hp": "",
-        "tel": "TEL:0968-85-2047,FAX:0968-85-2931",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周五 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "熊本県",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "14.はがこどもクリニック",
-        "address": "熊本県上益城郡益城町宮園 408-1",
-        "hp": "网站：http://www.hagakodomo.com/",
-        "tel": "TEL：096-289-7020 FAX：096-289-7021",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周四：9:00-11:00；14:00-16:00周五：9:00-11:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "熊本県",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "15.菊陽あきたクリニック",
-        "address": "熊本県菊池郡菊池郡菊陽町原水  1156 番地 13",
-        "hp": "网站：https://www.akita-g.com/",
-        "tel": "TEL：096-232-8333",
-        "pcr": {
-          "result": "",
-          "workday": "周一至周六：9:00-12:30,周一、周二、周四、周五：14:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "宫崎县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "16.いわさき小児科",
-        "address": "宮崎県宮崎市神宮東3 丁目２０６番地２",
-        "hp": "网站：https://www.iwasakiclinic.org/",
-        "tel": "TEL：0985-35-7725,FAX：0985-35-7726",
-        "pcr": {
-          "result": "",
-          "workday": "每月不定，详见其网页通知"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "山口县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "17.公益財団法人山口県予防保健協会",
-        "address": "山口県山口市小郡上郷 5408 番地 1",
-        "hp": "网站：https://www.yobou.or.jp/",
-        "tel": "TEL：083-933-0008  ﾀﾞｲﾔﾙｲﾝ「4」",
-        "pcr": {
-          "result": "",
-          "workday": "每周三 9:00-11:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "山口县",
-        "en": "Fukuoka"
-      },
-      "facility": {
-        "name": "18.たけのこクリニック",
-        "address": "山口県熊毛郡平生町大字平生村７６５−２",
-        "hp": "网站：https://www.takenoko-clinic.com/pcrtestg",
-        "tel": "TEL：090-1707-6266（可中文）",
-        "pcr": {
-          "result": "",
-          "workday": "9：00〜12：00,15：00〜18：00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "1、だいどうクリニック予防接種センター",
-        "address": "名古屋市南区白水町 8 番地",
-        "hp": "",
-        "tel": "052-611-8650",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-11:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "2、藤が丘オーキッドファミリークリニック",
-        "address": "名古屋市名東区藤が丘 143 番地藤が丘公団 1 号棟 2 階",
-        "hp": "",
-        "tel": "090-8568-3336",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-11:30 及,周一、二、四、五的 16:00-19:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "3、金山ファミリークリニック",
-        "address": "名古屋市熱田区金山町 1-503 トーワ金山ビル 6F",
-        "hp": "",
-        "tel": "052-678-7700",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二、三、五的 9:00-11:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "4、常滑市民病院",
-        "address": "常滑市飛香台 3-3-3",
-        "hp": "",
-        "tel": "0569-35-3170",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-10:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "5、ゆう内科クリニック",
-        "address": "名古屋市中区錦１丁目 20-10 HR ・NET 伏見ビル 9F",
-        "hp": "",
-        "tel": "052-212-6085",
-        "pcr": {
-          "result": "",
-          "workday": "每周一至周六 9:00-13:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "6、藤田医科大学ばんたね病院",
-        "address": "名古屋市中川区尾頭橋 3-6-10",
-        "hp": "",
-        "tel": "052-323-5927/5918",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-10:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "7、名古屋ステーションクリニック",
-        "address": "名古屋市中村区名駅 4-6-17 名古屋ビルディング 8 階",
-        "hp": "https://pcr.station-clinic.com/",
-        "tel": "052-551-6667（可用中文）,",
-        "pcr": {
-          "result": "",
-          "workday": "每周一至周六 13:00-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "8、うかい医院",
-        "address": "日進市東山 4-621-2",
-        "hp": "",
-        "tel": "0561-74-1551",
-        "pcr": {
-          "result": "",
-          "workday": "每周一至周六 8:00-9:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "9、ひだかこどもクリニック",
-        "address": "知多郡東浦町大字緒川字大門一区3-2",
-        "hp": "",
-        "tel": "0562-82-0700",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二、四、五 9:00-18:00,及每周六、日 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "10、たいようこどもクリニック",
-        "address": "名古屋市北区黒川本通 5-22-1",
-        "hp": "",
-        "tel": "052-911-3211",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-12:00,16:00-18:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "11、一般社団法人オリエンタル労働衛生協会  メディカルクリニック",
-        "address": "名古屋市千種区今池 1-8-4",
-        "hp": "",
-        "tel": "052-746-6556",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、三、四 9:00-11:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "12、清水内科クリニック",
-        "address": "名古屋市北区平安 1-8-50",
-        "hp": "",
-        "tel": "052-912-0002",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 11:30-11:45，18:30-18:45"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "13、星ヶ丘マタニティ病院",
-        "address": "名古屋市千種区井上町 27",
-        "hp": "http://www.toukeikai.com/na_pcr.htm",
-        "tel": "E-mail:naika@toukeikai.com",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、三、四、五 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "14、リブラささしまメディカルクリニック",
-        "address": "名古屋市中村区平池町 4-60-12グローバルゲート５階",
-        "hp": "",
-        "tel": "070-4067-5035（可用中文）,052-485-7298",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-12:00,14:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "15、江崎外科内科",
-        "address": "小牧市曙町 70",
-        "hp": "",
-        "tel": "0568-75-2211",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 10:30-11:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "16、成田記念病院",
-        "address": "豊橋市羽根井本町 134 番地",
-        "hp": "",
-        "tel": "0532-31-2167",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二 14:00-16:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "17、メドック健康クリニック",
-        "address": "名古屋市昭和区安田通 4-3",
-        "hp": "http://medoc.jp/pcr_china",
-        "tel": " 052-209-5466（中文）,052-752-1135（日语）",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 14:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "18、偕行会城西病院",
-        "address": "名古屋市中村区北畑町四丁目1 番地",
-        "hp": "",
-        "tel": "052-485-3777",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二、四、五 13:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "19、名古屋共立病院",
-        "address": "名古屋市中川区法華一丁目 172 番地",
-        "hp": "",
-        "tel": "052-362-5151",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 13:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "20、藤田医科大学岡崎医療センター",
-        "address": "岡崎市針崎町字五反田 1 番地",
-        "hp": "https://okazaki.fujita-hu.ac.jp/topics/dts2c90000001437.html",
-        "tel": " E-mail：hp4renkei@fujita-hu.ac.jp",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "21、藤田医科大学病院",
-        "address": "豊明市沓掛町田楽ケ窪 1-98",
-        "hp": "https://hospital.fujita-hu.ac.jp/topics/Businesstravelers_pcr.html",
-        "tel": "E-mail:hp1g-iji@fujita-hu.ac.jp",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "22、医療法人社団  交和会同仁医院",
-        "address": "春日井市勝川町 5-105",
-        "hp": "",
-        "tel": "070-4067-5035（可用中文）,0568-33-6787",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二、四、五 9:00-12:00,17：00-19:00,每周六 9:00-12:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "爱知县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "23、松前内科医院",
-        "address": "一宮市浅野字紅楳野５０－１",
-        "hp": "",
-        "tel": "0586-81-7001",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二、四、五 8:30-11:30，16:00-18:00,每周三、六 8:30-11:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "岐阜县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "24、矢嶋小児科小児循環器クリニック",
-        "address": "岐阜市日野南 7-10-7",
-        "hp": "",
-        "tel": "058-240-5666",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "岐阜县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "25、東海中央病院",
-        "address": "各務原市蘇原東島町 4-6-2",
-        "hp": "https://www.tokaihp.jp/news/post_170.html,（12月1日起开放）",
-        "tel": "",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-10:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "岐阜县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "26、操健康クリニック",
-        "address": "岐阜市薮田南 1-4-20",
-        "hp": "",
-        "tel": "058-274-0330",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 12:00-14:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "富山县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "27、魚津緑ヶ丘病院",
-        "address": "魚津市大光寺 287",
-        "hp": "",
-        "tel": "0765-22-1567",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二、五 13:00-14:30"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "富山县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "28、不二越病院",
-        "address": "富山市東石金町 11-65",
-        "hp": "",
-        "tel": "076-424-2881",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 13:30-14:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "富山县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "29、東岩瀬クリニック",
-        "address": "富山市高畠町 1-11-11",
-        "hp": "",
-        "tel": "higashiiwaseclinic@hotmail.com,076-426-0880",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 11:00-12:00，16:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "石川县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "30、金澤なかで  クリニック",
-        "address": "金沢市近岡町 294 番地 7",
-        "hp": "",
-        "tel": "080-2956-6400",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-13:00，15:00-17:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "石川县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "31、石川県予防医学協会  予防医学クリニック",
-        "address": "金沢市神野町東 115 番地",
-        "hp": "",
-        "tel": "076-249-7373",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 14:00-16:00,周六检测需提前咨询"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "石川县",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "32、コマツクリニック",
-        "address": "金沢市大野町新町 1-1",
-        "hp": "",
-        "tel": "076-293-4930",
-        "pcr": {
-          "result": "",
-          "workday": "工作日 9:00-15:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "三重県",
-        "en": "Nagoya"
-      },
-      "facility": {
-        "name": "33、ほしみ脳神経外科",
-        "address": "桑名市星見ヶ丘 7-305",
-        "hp": "",
-        "tel": "0594-32-7500",
-        "pcr": {
-          "result": "",
-          "workday": "每周一、二、三、五、六 9:00-12:00，,15:00-18:00"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "新潟県",
-        "en": "Niigata"
-      },
-      "facility": {
-        "name": "プラーカ中村クリニック",
-        "address": "新潟市中央区笹口 1-1",
-        "hp": "http://plaka-nakamura-clinic.skr.jp/index.cgi",
-        "tel": "025-240-0426/",
-        "pcr": {
-          "result": "2 天",
-          "workday": "每周一至每周四、周五"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "新潟県",
-        "en": "Niigata"
-      },
-      "facility": {
-        "name": "こばやし内科クリニック",
-        "address": "新潟市中央区紫竹山6-2-26",
-        "hp": "https://kobayashi-naika.clinic/pcr/index.html",
-        "tel": "025-246-5600",
-        "pcr": {
-          "result": "1 天",
-          "workday": "每周一至每周五"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "宫城県",
-        "en": "Niigata"
-      },
-      "facility": {
-        "name": "多贺城あかざクリニック",
-        "address": "宮城県多賀城市高橋2-15-28",
-        "hp": "https://www.akaza-mc.com/",
-        "tel": "022-794-7201",
-        "pcr": {
-          "result": "1 天",
-          "workday": "每周一至每周日"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "山形県",
-        "en": "Niigata"
-      },
-      "facility": {
-        "name": "べにばな内科クリニック",
-        "address": "山形県山形市蔵王成沢西4-11-32",
-        "hp": "http://www.benibana-clinic.com/",
-        "tel": "023-688-3511",
-        "pcr": {
-          "result": "2 天",
-          "workday": "每周一至每周六"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福岛県",
-        "en": "Niigata"
-      },
-      "facility": {
-        "name": "しぎはらクリニック",
-        "address": "福島県福島市八島田字勝口 37 番地",
-        "hp": "http://aki2250.xsrv.jp/",
-        "tel": "024-555-3331",
-        "pcr": {
-          "result": "2 天",
-          "workday": "每周一至每周日、假日"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福岛県",
-        "en": "Niigata"
-      },
-      "facility": {
-        "name": "南東北医療クリニック",
-        "address": "福島県郡山市八山田七丁目 161",
-        "hp": "http://www.minamitohoku.or.jp/",
-        "tel": "024-934-5385",
-        "pcr": {
-          "result": "2 天",
-          "workday": "每周一至每周五"
-        }
-      }
-    },
-    {
-      "prefecture": {
-        "name": "福岛県",
-        "en": "Niigata"
-      },
-      "facility": {
-        "name": "常磐病院",
-        "address": "福島県いわき市常磐上湯長谷町上ノ台 57",
-        "hp": "http://www.tokiwa.or.jp/hospital/jyoban/",
-        "tel": "0246-43-7399",
-        "pcr": {
-          "result": "2 天",
-          "workday": "每周一至每周六"
-        }
-      }
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "日本医科大学成田国際空港クリニック成田空港 PCR センター",
+      "facility_address": "千葉県成田市古込１−１ 第 2 ターミナルビル1 階",
+      "lat": "35.773693",
+      "lng": "140.386032",
+      "facility_hp": "https://www.nms-pcr.com/",
+      "facility_tel": "0476-34-6805、请提前两天以上通过、网站或电话预约",
+      "pcr_result": "0-1 日",
+      "pcr_workday": "采样时间 9:00-16:00、如航班时间在早 9:00 前请务必向机、构确认取结果时间、以免耽误乘机、13 岁以下儿童无法检测"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "表参道スキンクリニック",
+      "facility_address": "東京都渋谷区神宮前 5-9-13 喜多重ビル4 階",
+      "lat": "35.666691",
+      "lng": "139.707489",
+      "facility_hp": "https://covid19test.jp/omotesando.html",
+      "facility_tel": "080-2264-9595",
+      "pcr_result": "1 日",
+      "pcr_workday": "11:00-18:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "クリニックフォア大手町",
+      "facility_address": "東京都千袋田区大手町 1－2－1 Otemachi One 地下１階",
+      "lat": "35.693932",
+      "lng": "139.75354",
+      "facility_hp": "https://www.clinicfor.life/otemachi/",
+      "facility_tel": "03-4570-1263",
+      "pcr_result": "1 日",
+      "pcr_workday": "平日 9:00-20:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医疗法人社团青川会三好医院",
+      "facility_address": "東京都新宿区百人町 2-23-47",
+      "lat": "35.703293",
+      "lng": "139.696671",
+      "facility_hp": "https://search.10man-doc.co.jp/details/tokyo/00006195",
+      "facility_tel": "03-5337-9871、090-9818-7488",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一、二、三、五、9:00-12:00、15:00-18:00、周四、六、日、休:10:00-13:00、全年无休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "クリニックフォア田町",
+      "facility_address": "東京都港区芝浦 3－1－32 なぎさテラス４階",
+      "lat": "35.644985",
+      "lng": "139.748886",
+      "facility_hp": "https://www.clinicfor.life/tamachi/",
+      "facility_tel": "03-4579-8189",
+      "pcr_result": "1 日",
+      "pcr_workday": "平日 9:30-20:30、六、日、祝 9:00-17:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医疗法人社团医进会小田クリニック",
+      "facility_address": "東京都新宿区大久保 1-11-3 大東ビル 2F",
+      "lat": "35.698963",
+      "lng": "139.704193",
+      "facility_hp": "https://www.ishinkai-mc.net/pcrd",
+      "facility_tel": "03-5273-0770",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "9:30-12:00、14:30-16:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "三田国際ビルクリニック",
+      "facility_address": "東京都港区三田 1-4-28 三田国際ビル3 階",
+      "lat": "35.653156",
+      "lng": "139.742737",
+      "facility_hp": "https://bit.ly/2X9VWB6",
+      "facility_tel": "03-3454-8614",
+      "pcr_result": "0-1 日",
+      "pcr_workday": "周一-五 8:30-17:30、周六 8:30-12:30、周日可应对团体检测"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "平和纪念医院",
+      "facility_address": "東京都江東区平野 2-11-5 パシフィック第二門前仲町2F",
+      "lat": "35.678085",
+      "lng": "139.803879",
+      "facility_hp": "https://heiwa-med.com/",
+      "facility_tel": "03-3820-8880、090-8124-7643、（中文）、微信：heiwamed2020",
+      "pcr_result": "0-1 日",
+      "pcr_workday": "8:30-19:00、周末、祝日不休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医疗法人社团 幸和会幸和クリニック",
+      "facility_address": "東京都豊島区駒込 6-33-17",
+      "lat": "35.741592",
+      "lng": "139.742065",
+      "facility_hp": "https://kouwakai.jp/kouwa-clinic/about/",
+      "facility_tel": "070-3858-7257、（中文）、微信：、wa07038587257",
+      "pcr_result": "1 日",
+      "pcr_workday": "9:00—18:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "公益财团法人佐佐木研究所附属杏云堂医院",
+      "facility_address": "東京都千代田区神田骏河台 1-8",
+      "lat": "35.700542",
+      "lng": "139.752258",
+      "facility_hp": "https://www.kyoundo-hospital.jp/",
+      "facility_tel": "03-3292-2058、（可中文）",
+      "pcr_result": "当日",
+      "pcr_workday": "周一-周五 9:00-17:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団知慎会JTK クリニック",
+      "facility_address": "東京都千代田区麹町 4-1-5 志村ビル 2 階",
+      "lat": "35.683678",
+      "lng": "139.737595",
+      "facility_hp": "https://www.jtkclinic.com/HSR",
+      "facility_tel": "03-6261-6386",
+      "pcr_result": "当日",
+      "pcr_workday": "周一-周六 9:00-18:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団日中友好医院",
+      "facility_address": "東京都渋谷区代々木 1－38－5 KDX 代々木ビル6 階",
+      "lat": "35.68277",
+      "lng": "139.700897",
+      "facility_hp": "http://jcf-clinic.com/",
+      "facility_tel": "03-6276-9788",
+      "pcr_result": "1 日",
+      "pcr_workday": "9:30-17:00、周日、祝日休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団佳有会品川イーストクリニック",
+      "facility_address": "港区港南 2-15-2 品川インターシティB 棟 2 階",
+      "lat": "35.626335",
+      "lng": "139.742004",
+      "facility_hp": "https://e-clinic.gr.jp/",
+      "facility_tel": "03-5783-5521",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一-周五 10:30-18:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "亀田京橋クリニック",
+      "facility_address": "東京都中央区京橋 3-1-1 東京スクエガーデン 4 階 6階",
+      "lat": "35.675819",
+      "lng": "139.768723",
+      "facility_hp": "http://www.kameda-kyobashi.com/ja/index.html",
+      "facility_tel": "03-3527-9100",
+      "pcr_result": "当日",
+      "pcr_workday": "周一-周五 8:00-9:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "日比谷クリニック",
+      "facility_address": "東京都千袋田区有楽町 1－7－1",
+      "lat": "35.693932",
+      "lng": "139.75354",
+      "facility_hp": "https://hibiya-clinic.com/",
+      "facility_tel": "03-3217-1105",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周五 10:00-12:30、14:30-17:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "株式会社日立製作所本社丸の内センタービル診療所",
+      "facility_address": "東京都千代田区丸の内一丁目 6 番１号丸の内センタービル 12F",
+      "lat": "35.683708",
+      "lng": "139.766266",
+      "facility_hp": "https://sasp.mapion.co.jp/b/hitachi/info/BA613595/?view=r",
+      "facility_tel": "03-4235-4225",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周三、16:00-17:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "表参道ヘレネクリニック",
+      "facility_address": "東京都港区南青山 5-9-15 青山 OHMOTO ビル3",
+      "lat": "35.663078",
+      "lng": "139.71138",
+      "facility_hp": "https://stemcells.jp/pcr_inspection/",
+      "facility_tel": "03-3400-2277",
+      "pcr_result": "当日",
+      "pcr_workday": "平日 10:00-13:30、15:00-19:00、周三、周日休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医疗法人社团同济会えみクリニック东大前",
+      "facility_address": "東京都文京区向丘 2-2-6ESTO HONGO 1 层",
+      "lat": "35.717155",
+      "lng": "139.75853",
+      "facility_hp": "http://www.emiclinic.com/",
+      "facility_tel": "03-3868-3528 中文、微信、emiclinictodaimae",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一-周日 9:00-20:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "上野ロイヤルガーデンクリニック",
+      "facility_address": "東京都東上野 3-14-7 龍田ビル3 階",
+      "lat": "35.758629",
+      "lng": "139.529709",
+      "facility_hp": "",
+      "facility_tel": "03-5846-8378",
+      "pcr_result": "1 日、最快 3 小时、以情况为准",
+      "pcr_workday": "周一-周日、9:00-12:00、14:00-17:00、周六日需提前预约、团体可上门取样"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団みき会サンフィールドクリニック",
+      "facility_address": "東京都江東区青海 2-4-32 タイム24 ビル1 階",
+      "lat": "35.617447",
+      "lng": "139.777084",
+      "facility_hp": "http://www.sunfield-c.com/pcrsm",
+      "facility_tel": "03-3599-3311、080-4889-3726",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "周一-周五：9:00-17:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "いすゞ病院",
+      "facility_address": "東京都品川区南大井 6-21-10",
+      "lat": "35.589672",
+      "lng": "139.732224",
+      "facility_hp": "http://isuzu-hospital.jp/",
+      "facility_tel": "03-5471-4611、邮箱、Juri_Tanaka@notes.isuzu.co.jp",
+      "pcr_result": "2 日",
+      "pcr_workday": "12:00-13:00（需提前联系）"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人輝鳳会池袋クリニック",
+      "facility_address": "東京都豊島区南池袋 1-25-11 第 15 野萩ビル 7 階",
+      "lat": "35.728569",
+      "lng": "139.713287",
+      "facility_hp": "https://ganno-clinic.jp/clinic/ikebukuro.html",
+      "facility_tel": "03-6914-0723",
+      "pcr_result": "2 日",
+      "pcr_workday": "10:00-16:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "山岡クリニック",
+      "facility_address": "東京都千代田区麹町 4-3 麹町富士ビル2F",
+      "lat": "35.683212",
+      "lng": "139.737595",
+      "facility_hp": "https://www.yamaoka-clinic.com/",
+      "facility_tel": "03-3264-5160",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "平日、周六 9:30-13:00、周日、祝日休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "こたろクリニック",
+      "facility_address": "東京都渋谷区笹塚 1－56－10 2 階",
+      "lat": "35.673977",
+      "lng": "139.667526",
+      "facility_hp": "https://kotaro-clinic.com/",
+      "facility_tel": "090-5925-1786（中文）、微信：、a09059251786",
+      "pcr_result": "1 日",
+      "pcr_workday": "10:00—19:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "KARADA 内科クリニック",
+      "facility_address": "東京都品川区西五反田 1-2-8 FUNDES 五反田 10F",
+      "lat": "35.625759",
+      "lng": "139.722763",
+      "facility_hp": "https://karada-naika.com/",
+      "facility_tel": "03-3495-0192",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "10:00-13:00、15:00-19:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "グローバルヘルスケアクリニック",
+      "facility_address": "東京都千代田区麹町 3-12-2 麹町 MS ビル",
+      "lat": "35.685204",
+      "lng": "139.738556",
+      "facility_hp": "https://ghc.tokyo/",
+      "facility_tel": "03-3222-8832",
+      "pcr_result": "2 日内",
+      "pcr_workday": "平日 10:00-18:00、周六 10-12:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "小石川インターナショナルクリニック",
+      "facility_address": "東京都文京区白山 2-29-4",
+      "lat": "35.717842",
+      "lng": "139.751114",
+      "facility_hp": "https://www.kic.clinic/",
+      "facility_tel": "03-6757-2060",
+      "pcr_result": "2 日内",
+      "pcr_workday": "9:30-16:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団ナチュラルハーモニーナチュラルハーモニークリニック表参道",
+      "facility_address": "東京都渋谷区神宮前 6-25-14   神宮前メディアスクエアビル５F",
+      "lat": "35.666004",
+      "lng": "139.702774",
+      "facility_hp": "https://natucli.com/",
+      "facility_tel": "03-3400-7200",
+      "pcr_result": "2 日",
+      "pcr_workday": "周一-周六 10:00-19:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "東京高輪病院",
+      "facility_address": "東京都港区高輪 3 丁目 10 番 11 号",
+      "lat": "35.631798",
+      "lng": "139.731277",
+      "facility_hp": "https://takanawa.jcho.go.jp/",
+      "facility_tel": "03-3443-9191",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周五 9：00-15：00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "西新橋クリニック",
+      "facility_address": "東京都港区西新橋 2-4-3 プロス西新橋 2 階",
+      "lat": "35.667171",
+      "lng": "139.752289",
+      "facility_hp": "https://www.tramedic.com/",
+      "facility_tel": "03-3519-6677",
+      "pcr_result": "2 日",
+      "pcr_workday": "周一-周六、12:00-15:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "THE KING CLINIC",
+      "facility_address": "東京都渋谷区神宮前 6-31-11 iori 表参道 B1F",
+      "lat": "35.668537",
+      "lng": "139.704468",
+      "facility_hp": "https://Thekingclinic.com",
+      "facility_tel": "03-3400-7522",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周六（周三休）、10:00-12:00、13:00-18:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "T ケアクリニック浜松町",
+      "facility_address": "東京都港区浜松町 2-13-9",
+      "lat": "35.653206",
+      "lng": "139.755386",
+      "facility_hp": "",
+      "facility_tel": "03-5422-1011",
+      "pcr_result": "1 日",
+      "pcr_workday": "11:00-19:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "インターナショナルヘルスケアクリニック",
+      "facility_address": "東京都港区新橋 2-10-5 末吉ビル 3 階",
+      "lat": "35.667133",
+      "lng": "139.755753",
+      "facility_hp": "",
+      "facility_tel": "03-3501-1330",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一-周五 9:00-18:15、（周末、祝日请提前咨询机构）"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "東京ビジネスクリニック八重洲北口",
+      "facility_address": "東京都千代田区丸の内 1-8-2 鉄鋼ビル地下一階",
+      "lat": "35.682667",
+      "lng": "139.769562",
+      "facility_hp": "",
+      "facility_tel": "03-6268-0079",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周六 9:00-18:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団進興会東京ダイヤビルクリニック",
+      "facility_address": "東京都中央区新川 1-28-25 東京ダイヤビルディング 3号館 1F",
+      "lat": "35.675465",
+      "lng": "139.783371",
+      "facility_hp": "https://www.daiya-clinic.jp/pcrtestp",
+      "facility_tel": "080-2192-0710、（中文）",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "周一、二、三 9:00-17:00、周一、二 14:00-17:00、（详询机构）"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "銀座みやこクリニック",
+      "facility_address": "東京都中央区銀座 3-10-15 東銀 2 ビル 6 階",
+      "lat": "35.671257",
+      "lng": "139.768204",
+      "facility_hp": "",
+      "facility_tel": "03-6228-4112",
+      "pcr_result": "0-1 日",
+      "pcr_workday": "11:00-17:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "ヒラハタクリニック",
+      "facility_address": "東京都渋谷区渋谷 1-24-6 マトリクスツービル9 階",
+      "lat": "35.660255",
+      "lng": "139.702026",
+      "facility_hp": "",
+      "facility_tel": "03-3400-3288",
+      "pcr_result": "2 日",
+      "pcr_workday": "鼻咽头检查：、周一二四五 15:30-20:00、唾液检查：、周一-周五 15:00-17:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "大森町駅前内科小児科クリニック",
+      "facility_address": "東京都大田区大森西 3-20-9   １階",
+      "lat": "35.57243",
+      "lng": "139.731339",
+      "facility_hp": "https://omorimachi.com",
+      "facility_tel": "03-6423-0428",
+      "pcr_result": "1 日",
+      "pcr_workday": "平日 9:00-12:00、15:00-18:00、周末、 祝日 9:00-12:00、14:00-15:30"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "恵比寿クリニック",
+      "facility_address": "東京都渋谷区恵比寿 4-1-18 恵比寿ネオナート２階",
+      "lat": "35.644524",
+      "lng": "139.711487",
+      "facility_hp": "",
+      "facility_tel": "03-3440-3131",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "平日 9:00-12:00、14:00-17:00、周六 9:00-12:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "千駄ヶ谷インターナショナルクリニック",
+      "facility_address": "東京都渋谷区千駄ヶ谷 1-20-3 バルビゾン11 号館 203号室",
+      "lat": "35.679207",
+      "lng": "139.710236",
+      "facility_hp": "",
+      "facility_tel": "03-3478-4747",
+      "pcr_result": "2 日",
+      "pcr_workday": "平日 10:00-12:30、15:00-17:30、周六 9:00-14:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団裕恒会G クリニック",
+      "facility_address": "東京都中央区銀座 5-3-13 GINZA SS85 ビル 12 階",
+      "lat": "35.671947",
+      "lng": "139.762909",
+      "facility_hp": "",
+      "facility_tel": "03-3572-3860",
+      "pcr_result": "1 日",
+      "pcr_workday": "10:00-17:00、周四、日休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "協和医院",
+      "facility_address": "東京都台東区台東 4-8-5",
+      "lat": "35.706005",
+      "lng": "139.776627",
+      "facility_hp": "",
+      "facility_tel": "03-3835-0186",
+      "pcr_result": "2 日",
+      "pcr_workday": "周一、二、四、五、日、9:00-12:00、13:30-17:30、周六 9:00-12:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "ライフサイエンス健診クリニック",
+      "facility_address": "東京都中央区日本橋堀留町 2-6-6ライフサイエンスビル 3 階",
+      "lat": "35.689285",
+      "lng": "139.78093",
+      "facility_hp": "",
+      "facility_tel": "03-5652-0808",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "平日 9:00-12:00、14:00-15:30、周四下午休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団桜伸会サンテクリニック",
+      "facility_address": "東京都中央区銀座 8-12-15 全国燃料会館ビル2 階",
+      "lat": "35.667397",
+      "lng": "139.762863",
+      "facility_hp": "https://sante-clinic.jp/",
+      "facility_tel": "03-5565-9800",
+      "pcr_result": "0-1 日",
+      "pcr_workday": "周一-周六 10:00-19:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "浅草橋駅前総合クリニック",
+      "facility_address": "東京都台東区浅草橋 1-30-9 ヒューリック浅草橋江戸通 5 階",
+      "lat": "35.698166",
+      "lng": "139.786499",
+      "facility_hp": "https://reserva.be/asakusapcr/pcrak",
+      "facility_tel": "08074347444",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "平日、周六 10:00-17:00、周日休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "アイムビューティーメディカルクリニック",
+      "facility_address": "東京都港区高輪二丁目 19 番 20 号 財界二世学院ビル8階",
+      "lat": "35.639198",
+      "lng": "139.741196",
+      "facility_hp": "https://www.covid19test.jp/html/pcrav",
+      "facility_tel": "07042221640",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "平日 09:00-13:00、09:00-18:00、周日、祝日休"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "やまとむら歯科",
+      "facility_address": "東京都豊島巣鴨 1-4-18",
+      "lat": "35.732368",
+      "lng": "139.715897",
+      "facility_hp": "https://kouwakai.jp/yamatomurashika/about",
+      "facility_tel": "070-3858-7210、微信：、a07038587210",
+      "pcr_result": "1 日",
+      "pcr_workday": "10:00—19:00"
+    },
+    {
+      "prefecture_name": "東京",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "東京 TMS クリニック",
+      "facility_address": "東京都渋谷区恵比寿西 1-1-2 しんみつビル 5 階",
+      "lat": "35.648403",
+      "lng": "139.709",
+      "facility_hp": "https://tms-clinic.jp/travel-Corona",
+      "facility_tel": "https://form.run/@info-1602678867",
+      "pcr_result": "当日",
+      "pcr_workday": "10:30-13:30、16:30-19:00（周一至、周日、全年无休）"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "横滨医院",
+      "facility_address": "横浜市中区山下町 211-8-101",
+      "lat": "35.442459",
+      "lng": "139.64267",
+      "facility_hp": "http://yokohamaclinic.com/",
+      "facility_tel": "045-228-8321",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一、二、三、五、六、9:30-12:00、14:00-16:00、周四、周日下午 14:00-16:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "沖縄徳洲会湘南鎌倉総合病院",
+      "facility_address": "神奈川県鎌倉市岡本 1370-1",
+      "lat": "35.34404",
+      "lng": "139.512985",
+      "facility_hp": "",
+      "facility_tel": "0467-46-1717",
+      "pcr_result": "2 日内",
+      "pcr_workday": "检测时间 14:00-15:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "AOI 國際醫院(AOI 国際病院)",
+      "facility_address": "神奈川県川崎市川崎区田町 2-9-1",
+      "lat": "35.533916",
+      "lng": "139.746048",
+      "facility_hp": "http://www.aoikai.jp/aoiuniversalhospital/pcrtestn",
+      "facility_tel": "070-48040169 （中文）",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "9:00-12:00、14:00-17:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団和光会総合川崎臨港病院",
+      "facility_address": "神奈川県川崎市川崎区中島 3-13-1",
+      "lat": "35.526127",
+      "lng": "139.717514",
+      "facility_hp": "http://rinko.or.jp/",
+      "facility_tel": "044-233-9336",
+      "pcr_result": "1 日",
+      "pcr_workday": "平日 10:00-20:00、周末、祝日 10:00-16:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "横浜エムエムクリニック",
+      "facility_address": "横浜市西区みなとみらい3-3-1 三菱重工横浜ビル 3F",
+      "lat": "35.456848",
+      "lng": "139.629257",
+      "facility_hp": "https://www.mmclinic.jp/news/detail04.shtml?1595399533",
+      "facility_tel": "045-225-8633",
+      "pcr_result": "2 日",
+      "pcr_workday": "周一-周五、9:00-12:00、14:00-16:00、周六：9:00-12:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団 TCJ トラベルクリニック新横浜",
+      "facility_address": "横浜市港北区新横浜 2-13-6 第一 KS ビル ３階",
+      "lat": "35.509281",
+      "lng": "139.613693",
+      "facility_hp": "",
+      "facility_tel": "045-470-1011",
+      "pcr_result": "２日",
+      "pcr_workday": "检测时间周二-周六、14:00-15:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "藤沢善行ファミリークリニック",
+      "facility_address": "神奈川県藤沢市善行 7-4-9",
+      "lat": "35.363251",
+      "lng": "139.474152",
+      "facility_hp": "",
+      "facility_tel": "080-3500-2826",
+      "pcr_result": "2 日",
+      "pcr_workday": "周一-周六 9:00-17:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "たま耳鼻咽喉科",
+      "facility_address": "神奈川県川崎市多摩区登戸１８４２ M’s core 1F",
+      "lat": "35.619682",
+      "lng": "139.563919",
+      "facility_hp": "https://www.tamajibi.jp/",
+      "facility_tel": "090-2842-0736、微 信 ：tama07038587265",
+      "pcr_result": "1 日",
+      "pcr_workday": "9:30-18:30（周日休）"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "誠友クリニック",
+      "facility_address": "神奈川県横浜市中区山下町 224-2 パークポイント山下町１階",
+      "lat": "35.442883",
+      "lng": "139.641907",
+      "facility_hp": "",
+      "facility_tel": "045-264-9267/045-2、64-9286",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一、周二、周四、周五 9:00-18:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "本牧ベイサイドクリニック",
+      "facility_address": "神奈川県横浜市中区本牧原 1-22",
+      "lat": "35.426994",
+      "lng": "139.666336",
+      "facility_hp": "http://www.bayside-cl.com/",
+      "facility_tel": "045-628-0622",
+      "pcr_result": "2 日",
+      "pcr_workday": "月・火：9:00-12:00、14:00-17:00、水：9:00-12:00、木・金：14:00-17:00、土：14:00-16:00"
+    },
+    {
+      "prefecture_name": "神奈川",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "本厚木かかりつけクリニック",
+      "facility_address": "神奈川県厚木市中町 3-1-15",
+      "lat": "35.439526",
+      "lng": "139.362473",
+      "facility_hp": "http://kakakuri.com",
+      "facility_tel": "046-297-1919",
+      "pcr_result": "1 日",
+      "pcr_workday": "9:00-20:00"
+    },
+    {
+      "prefecture_name": "千葉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "柏の葉ゲノムクリニック",
+      "facility_address": "千葉県柏市 若柴 178 番地 4 柏の葉キャンパス１４８",
+      "lat": "35.895351",
+      "lng": "139.951508",
+      "facility_hp": "http://www.seifjapan.com/index/pcr/",
+      "facility_tel": "080-3499-6428",
+      "pcr_result": "2 日",
+      "pcr_workday": "平日 9:00-17:00、周日、祝日休"
+    },
+    {
+      "prefecture_name": "千葉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "亀田クリニック/亀田総合病院",
+      "facility_address": "鴨川市東町 929 番地",
+      "lat": "35.120132",
+      "lng": "140.125504",
+      "facility_hp": "http://www.kameda.com",
+      "facility_tel": "T:04-7099-2211（6313）、F:04-7099-2301",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一-周五 8:00-17:00"
+    },
+    {
+      "prefecture_name": "千葉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団翠柏会かしわ沼南みらいクリニック",
+      "facility_address": "千葉県柏市大津ケ丘 1-45-5",
+      "lat": "35.842793",
+      "lng": "140.002182",
+      "facility_hp": "https://www.mirai-clinic.net/",
+      "facility_tel": "邮箱、covid19@mirai-clin.ic.net、04-7191-3133",
+      "pcr_result": "1 日",
+      "pcr_workday": "平日 11:45-17:00、周三、周六上午营业"
+    },
+    {
+      "prefecture_name": "千葉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団良知会共立習志野台病院",
+      "facility_address": "千葉県船橋市習志野台4-13-16",
+      "lat": "35.718552",
+      "lng": "140.044891",
+      "facility_hp": "https://www.kyoritsunarasinodai.or.jp/pcrxy",
+      "facility_tel": "070-4804-0168、（有中文）",
+      "pcr_result": "1-2日",
+      "pcr_workday": "平日8:30-15:30、周末9:00 -12:00"
+    },
+    {
+      "prefecture_name": "千葉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "柏たなか病院",
+      "facility_address": "千葉県柏市小青田 1 丁目 3 番地 2",
+      "lat": "35.910114",
+      "lng": "139.955627",
+      "facility_hp": "http://www.aoikai.jp/kashiwatanaka/pcrtesto",
+      "facility_tel": "070-4804-0170、（中文）",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "9:00-12:00、14:00-16:30"
+    },
+    {
+      "prefecture_name": "千葉",
+      "prefecture_en": "Chiba",
+      "facility_name": "そが耳鼻咽喉科・アレルギー科",
+      "facility_address": "千葉県千葉市中央区南町 2-15-15KS ・ＨＯＹＯビル４階",
+      "lat": "35.581047",
+      "lng": "140.132828",
+      "facility_hp": "https://soga-ent.com/",
+      "facility_tel": "043-305-1133",
+      "pcr_result": "2 日",
+      "pcr_workday": "月・水・木・金：9:00-13:00、、14:30-18:00 土：9:00-13:00、、14:30-17:00"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "公平病院",
+      "facility_address": "戸田市笹目南町 20-16",
+      "lat": "35.812866",
+      "lng": "139.653046",
+      "facility_hp": "https://kodaira.life/",
+      "facility_tel": "T:048-421-3030、F:048-422-2620",
+      "pcr_result": "2 日",
+      "pcr_workday": "14:30-16:30"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "ふかやクリニック",
+      "facility_address": "深谷市宿根 245-1",
+      "lat": "36.196983",
+      "lng": "139.266159",
+      "facility_hp": "https://fukayaseikei.jp/",
+      "facility_tel": "048-574-0022",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周四 15:00-16:00"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人ひかり会パーク病院",
+      "facility_address": "埼玉県白岡市千駄野 1086-1",
+      "lat": "36.012756",
+      "lng": "139.68158",
+      "facility_hp": "",
+      "facility_tel": "0480-91-6200",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "周一至周六 9:00-17:30、周日 9:00-12:00"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "しおや消化器内科クリニック",
+      "facility_address": "さいたま市中央区本町東 3-3-3",
+      "lat": "35.883991",
+      "lng": "139.624252",
+      "facility_hp": "https://www.shioya-clinic.com/",
+      "facility_tel": "090-1804-6340、微信：xiaoyuriben",
+      "pcr_result": "1 日",
+      "pcr_workday": "9:00-18:00 周六休"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "行田総合病院",
+      "facility_address": "埼玉県行田市持田 376",
+      "lat": "36.125862",
+      "lng": "139.449097",
+      "facility_hp": "http://gyoda-hp.or.jp/",
+      "facility_tel": "048-552-1111",
+      "pcr_result": "当日～1 日",
+      "pcr_workday": "10:00-10:30、14:00-15:00"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "はせがわクリニック",
+      "facility_address": "埼玉県入間市豊岡 4-6-3",
+      "lat": "35.833412",
+      "lng": "139.393417",
+      "facility_hp": "http://gyoda-hp.or.jp/",
+      "facility_tel": "042-968-3721",
+      "pcr_result": "1 日",
+      "pcr_workday": "8:00-19:00"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "ふじみの救急クリニック",
+      "facility_address": "埼玉県入間郡三芳町北永井 997-5",
+      "lat": "35.84861",
+      "lng": "139.508728",
+      "facility_hp": "https://koyu-kai.jp/",
+      "facility_tel": "049-274-7666",
+      "pcr_result": "1 日",
+      "pcr_workday": "9:00-18:00"
+    },
+    {
+      "prefecture_name": "埼玉",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "新田駅前内科クリニック",
+      "facility_address": "埼玉県草加市金明町 371 風の道ハウス２階Ｃ",
+      "lat": "35.853531",
+      "lng": "139.796692",
+      "facility_hp": "https://huaclinic.com",
+      "facility_tel": "048-954-5362",
+      "pcr_result": "2 日",
+      "pcr_workday": "月・火・木・金：9:00-18:00、土：9:00-13:00"
+    },
+    {
+      "prefecture_name": "群馬",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "静内科",
+      "facility_address": "高崎市小八木町 799-1",
+      "lat": "36.36195",
+      "lng": "139.014374",
+      "facility_hp": "https://shizukanaika.com/",
+      "facility_tel": "027-370-0777",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一-周六 7:30-12:00、周一、三、五 17:00-19:00"
+    },
+    {
+      "prefecture_name": "群馬",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "本沢医院",
+      "facility_address": "群馬県渋川市石原 208-1",
+      "lat": "36.489208",
+      "lng": "139.004883",
+      "facility_hp": "http://www.honzawaiin.com/",
+      "facility_tel": "0279-23-6411、（日语、英语）",
+      "pcr_result": "1 日",
+      "pcr_workday": "13:30-17:00"
+    },
+    {
+      "prefecture_name": "群馬",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "医療法人社団 松寿会松山医院",
+      "facility_address": "群馬県前橋市本町1丁目1-3AMDビル医療モール（サーパス県庁前通り）",
+      "lat": "36.39138",
+      "lng": "139.067261",
+      "facility_hp": "http://matsuyamaiin.com/pcrtest",
+      "facility_tel": "080-3410-7535、（有中文）",
+      "pcr_result": "1-2日",
+      "pcr_workday": "10:00-13:00、14:00-17:00"
+    },
+    {
+      "prefecture_name": "山梨",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "きたむらクリニック",
+      "facility_address": "山梨県中央市若宮 23 番地 2",
+      "lat": "35.611435",
+      "lng": "138.537247",
+      "facility_hp": "https://www.kitamura-clinic.jp/",
+      "facility_tel": "T055-220-4112、F055-220-4113",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周五采样时间、12:30-13:00、周四休"
+    },
+    {
+      "prefecture_name": "山梨",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "西野内科医院",
+      "facility_address": "山梨県中央市山之神 2389-1",
+      "lat": "35.608856",
+      "lng": "138.511734",
+      "facility_hp": "",
+      "facility_tel": "055-273-6656",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周五 8:30-12:30、15:00-18:00、周六 8:30-12:30"
+    },
+    {
+      "prefecture_name": "茨城",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "筑波メディカルセンター病院",
+      "facility_address": "つくば市天久保 1-3-1",
+      "lat": "36.092152",
+      "lng": "140.106537",
+      "facility_hp": "http://www.tmch.or.jp/hosp/",
+      "facility_tel": "T029-851-3511、F029-858-2773",
+      "pcr_result": "当日",
+      "pcr_workday": "周一-周五采样时间、12:30-13:00"
+    },
+    {
+      "prefecture_name": "茨城",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "那珂キッズクリニック小児科",
+      "facility_address": "茨城県那珂市竹ノ内 3-2-2",
+      "lat": "36.449425",
+      "lng": "140.503967",
+      "facility_hp": "http://www.naka-kids.com/",
+      "facility_tel": "029-212-5630",
+      "pcr_result": "1 日～2 日",
+      "pcr_workday": "9:00-18:00"
+    },
+    {
+      "prefecture_name": "茨城",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "総合守谷第一病院",
+      "facility_address": "茨城県守谷市松前台 1-17",
+      "lat": "35.967392",
+      "lng": "139.966995",
+      "facility_hp": "https://www.moriya.daiichi.or.jp/",
+      "facility_tel": "029-745-5111",
+      "pcr_result": "1 日",
+      "pcr_workday": "月・火・水・木・金：、10:00-10:30、13:00-13:30、土：8:15-8:45"
+    },
+    {
+      "prefecture_name": "栃木",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "宇都宮記念病院総合健診センター",
+      "facility_address": "宇都宮市大通り 1-3-16",
+      "lat": "36.560787",
+      "lng": "139.891083",
+      "facility_hp": "http://kenshin.nakayamakai.com/",
+      "facility_tel": "028-625-7831",
+      "pcr_result": "1 日",
+      "pcr_workday": "周一-周五 09:00-15:00"
+    },
+    {
+      "prefecture_name": "栃木",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "てらだファミリークリニック",
+      "facility_address": "宇都宮市雀の宮 5-5-1",
+      "lat": "36.490345",
+      "lng": "139.874191",
+      "facility_hp": "http://terada-family-clinic.jp/index.php?go=nNfKXz",
+      "facility_tel": "028-654-2188",
+      "pcr_result": "2 日内",
+      "pcr_workday": "周一-周六采样时间 11:30-12:00、周四休"
+    },
+    {
+      "prefecture_name": "静岡",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "静岡厚生病院",
+      "facility_address": "静岡県静岡市葵区北番町 23",
+      "lat": "34.979336",
+      "lng": "138.371048",
+      "facility_hp": "https://ja-shizuokakosei.jp/",
+      "facility_tel": "054-271-7177",
+      "pcr_result": "2 日",
+      "pcr_workday": "周一-周五 8:00-11:30"
+    },
+    {
+      "prefecture_name": "静岡",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "チルドレンクリニック",
+      "facility_address": "静岡県浜松市中区高丘東 4-5-30",
+      "lat": "34.757675",
+      "lng": "137.708893",
+      "facility_hp": "https://www.children-clinic.com/",
+      "facility_tel": "053-420-6111",
+      "pcr_result": "2 日",
+      "pcr_workday": "周一-周五采样时间 11:30-12:00、周末可协商"
+    },
+    {
+      "prefecture_name": "静岡",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "遠藤クリニック",
+      "facility_address": "静岡県富士市神谷 527-1",
+      "lat": "35.163048",
+      "lng": "138.74295",
+      "facility_hp": "https://endo-cl.jp/",
+      "facility_tel": "0545-34-0048",
+      "pcr_result": "1 日",
+      "pcr_workday": "8:00-11:30、16:00-18:30"
+    },
+    {
+      "prefecture_name": "静岡",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "三上内科小児科医院",
+      "facility_address": "静岡県磐田市鎌田 865-2",
+      "lat": "34.705452",
+      "lng": "137.890091",
+      "facility_hp": "https://www.mikamiclinic.com/",
+      "facility_tel": "0538-37-0802",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一、周二、周三、周五、8:30-12:00、15:00-18:00、周六 8:30-12:00"
+    },
+    {
+      "prefecture_name": "長野",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "丸子中央病院",
+      "facility_address": "長野県上田市中丸子 1771-1",
+      "lat": "36.337936",
+      "lng": "138.272095",
+      "facility_hp": "https://maruko-hp.jp/medical-personnel/",
+      "facility_tel": "0268-42-1111",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "周一、周三：9:00-11:30、其他时间可协商"
+    },
+    {
+      "prefecture_name": "長野",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "清水外科胃肠科医院",
+      "facility_address": "長野県塩尻市広丘吉田 294-2",
+      "lat": "36.170013",
+      "lng": "137.958893",
+      "facility_hp": "http://www.shimizugeka.jp",
+      "facility_tel": "0263-58-2474",
+      "pcr_result": "1-2 日",
+      "pcr_workday": "平日 8:30 -18:00、周六 8:30-2:00"
+    },
+    {
+      "prefecture_name": "長野",
+      "prefecture_en": "Chiyodaku",
+      "facility_name": "やざわ虎クリニック",
+      "facility_address": "長野県諏訪市高島 1-21-14",
+      "lat": "36.039818",
+      "lng": "138.113449",
+      "facility_hp": "https://yazawa-tora-clinic.com/",
+      "facility_tel": "0266-57-8300",
+      "pcr_result": "2日内",
+      "pcr_workday": "平日 8:30-12:00、15:00-18:00、周末、祝日休"
+    },
+    {
+      "prefecture_name": "長野",
+      "prefecture_en": "Osaka",
+      "facility_name": "岡谷市民病院",
+      "facility_address": "長野県岡谷市本町四丁目 11 番 33 号",
+      "lat": "36.065216",
+      "lng": "138.048248",
+      "facility_hp": "https://www.okaya-hosp.jp/",
+      "facility_tel": "0266-23-8000",
+      "pcr_result": "2 日",
+      "pcr_workday": "平日 13:00-13:10、、周六 10:50-11:00（请提前预约）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "1.上本町わたなべ クリニック",
+      "facility_address": "大阪府大阪市天王寺区上之宮町１－15",
+      "lat": "34.662758",
+      "lng": "135.521133",
+      "facility_hp": "https://www.uehonmachi.jp/",
+      "facility_tel": "电话：06-6772-0075传真：06-6772-0083",
+      "pcr_result": "当天-1 天",
+      "pcr_workday": "周一-周六、（其中周三、六仅上午）：上午：09:00-12:00、下午：16:00-19:00、（有紧急检测通道）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "2.うつぼ Garden Clinic",
+      "facility_address": "大阪府大阪市西区京町堀 1-3-13 辰巳ビル 1 階",
+      "lat": "34.687271",
+      "lng": "135.497162",
+      "facility_hp": "https://utsubo-garden-clinic.com/",
+      "facility_tel": "电话：06-6136-6408",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周五（第 2 个、第 4 个周五休息）：、上午：10:00-14:00下午：15:00-18:00、周六：仅 10:00-14:00（第 2、个、第 4 个周六休息）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "3.医療法人太融寺町谷口医院",
+      "facility_address": "大阪府大阪市北区太融寺町4-20-4F すてらめいとビル 4F",
+      "lat": "34.701565",
+      "lng": "135.503311",
+      "facility_hp": "https://t-internationalclinic.jp/",
+      "facility_tel": "电话：06-6364-4177",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周三、周五： 11:30-13:15、周六：10:30-13:15"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "4.くぼたこどもクリニック",
+      "facility_address": "大阪府大阪市生野区勝山北 2-6-18",
+      "lat": "34.656151",
+      "lng": "135.532303",
+      "facility_hp": "http://www.kubota-kids.com/",
+      "facility_tel": "电话：06-7894-1100传真：06-7894-1101",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周六、09:00（最宜、其他时间视情）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "5.医療法人大植医院",
+      "facility_address": "大阪府岸和田市大町 3-3-4",
+      "lat": "34.46524",
+      "lng": "135.408508",
+      "facility_hp": "https://ohue.jp/",
+      "facility_tel": "电话：072-445-2662传真：072-441-7700",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周六 08:30-11:00、、周一、二、四、五 17：30～ 19：30 无需预约可直接前往"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "6.関西医科 大学総合医療センター",
+      "facility_address": "大阪府守口市文園町 10－15",
+      "lat": "34.728691",
+      "lng": "135.556335",
+      "facility_hp": "http://www.kmu.ac.jp/takii/",
+      "facility_tel": "电话:06-6992-1001",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一、周三、周五 09:00-11:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "7.西梅田シティクリニック",
+      "facility_address": "大阪府大阪市北区堂島１丁目堂島地下街 5 号",
+      "lat": "34.696594",
+      "lng": "135.497665",
+      "facility_hp": "https://nishiumeda.city-clinic.jp/",
+      "facility_tel": "电话：06-4797-7009传真：06-4797-7010",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周五： 09:30-22:00、（13:30-16:30 需提前联系）、周六：09:30-18:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "8.よどやばしメディカルクリニック",
+      "facility_address": "大阪府大阪市中央区北浜 ３丁目５−２０松栄ビル 4F",
+      "lat": "34.691898",
+      "lng": "135.502213",
+      "facility_hp": "http://yodoyabashi-medclinic.com/",
+      "facility_tel": "电话：06-6233-4976、传真：06-6233-4977",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周六 10:00-12:30"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "9.AYクリニック",
+      "facility_address": "大阪府大阪市西区北堀江 1-2-19 アステリオ北堀江ザ・メトロタワー 5F",
+      "lat": "34.673008",
+      "lng": "135.496857",
+      "facility_hp": "http://www.ay-clinic.com/",
+      "facility_tel": "电话：06-6110-7005",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周五 15:00-18:30（周六可进行抗体检测）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "10.医療法人光明会 もりあきクリニック",
+      "facility_address": "大阪府箕面市船場西三丁目 8 番 11 号 1F",
+      "lat": "34.818344",
+      "lng": "135.488373",
+      "facility_hp": "https://moriaki-clinic.net/",
+      "facility_tel": "电话：072-726-0078",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周六 09:00-12:30、周一、二、三、五 16:30-19:30"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "11.足立内科クリニック",
+      "facility_address": "大阪府大阪市旭区清水 ３丁目１−１４",
+      "lat": "34.724503",
+      "lng": "135.555389",
+      "facility_hp": "https://www.adachi-naikaclinic.jp/",
+      "facility_tel": "检测专用电话：06-6955-6700、06-6167-6065、法人专用电话：06-6958-5150 ",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周五 09:00-13:00、（其他时间可商谈）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "12.パナソニック健康保険組合松下記念病院",
+      "facility_address": "大阪府守口市外島町5 番 55号",
+      "lat": "34.743774",
+      "lng": "135.562439",
+      "facility_hp": "https://phio.panasonic.co.jp/kinen/",
+      "facility_tel": "电话：0120-130-533",
+      "pcr_result": "当天",
+      "pcr_workday": "周一-周五 08:00 -10:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "13.医療法人誠信会  三和クリニック",
+      "facility_address": "大阪市東住吉区照ヶ丘矢田 1-17-7",
+      "lat": "34.60778",
+      "lng": "135.535339",
+      "facility_hp": "http://sanwa-cl.jp/",
+      "facility_tel": "电话:06-6777-8802",
+      "pcr_result": "当天",
+      "pcr_workday": "周一-周日 9:00-17:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "14. ラッフルズメディカル大阪クリニック",
+      "facility_address": "大阪市北区梅田 2-5-25ハービス PLAZA4F",
+      "lat": "34.698513",
+      "lng": "135.492493",
+      "facility_hp": "http://www.raffles-osaka.com",
+      "facility_tel": "电话：06-6345-8145、传真：06-6345-8146",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周五 16:00-17:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "15.すぎた内科クリニック",
+      "facility_address": "大阪市西区江戸堀2-6-25  土佐堀ビューハイツ 103",
+      "lat": "34.687366",
+      "lng": "135.489914",
+      "facility_hp": "https://sugitaclinic.com/",
+      "facility_tel": "电话：06-6225-7822",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周二、周四-周六 9:30-12:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "16. リセリングクリニック大阪再生医療センター",
+      "facility_address": "大阪市北区天満橋1-8-40 帝国ホテルプラザ 2 階",
+      "lat": "34.700863",
+      "lng": "135.519501",
+      "facility_hp": "http://www.ormc.jp/guide.html",
+      "facility_tel": "电话：06-6881-1605、 06-6357-3456",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周三、周五-周六 11:00-16:30"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "17.大山クリニック",
+      "facility_address": "大阪府泉北郡忠岡町忠岡東 1-40-28",
+      "lat": "34.486198",
+      "lng": "135.400391",
+      "facility_hp": "https://www.oyamaclinic.com/",
+      "facility_tel": "电话：0725-32-1831",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周六 9:00-1200、周一-周三、周五17:00-19:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "18.ありずみ消化器内科",
+      "facility_address": "大阪府大阪市西区南堀江 ２丁目４−１はなさきビル 3 階",
+      "lat": "34.670952",
+      "lng": "135.49202",
+      "facility_hp": "https://arizumi-clinic.com/access.html",
+      "facility_tel": "电话：06-6648-8554",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周六 9:00-12:00、（周四、周日休诊）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "19.医療法人 SKY  スカイ整形外科クリニック",
+      "facility_address": "大阪府茨木市双葉町 10－1  茨木東阪急ビル 1F",
+      "lat": "34.816204",
+      "lng": "135.57605",
+      "facility_hp": "http://skyclinic.jp/",
+      "facility_tel": "电话：072-638-2121",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周五 9:00-18：00周六 9:00-14:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "20.野江内代クリニック",
+      "facility_address": "大阪市城東区野江 4 丁目1 番 8 号－101",
+      "lat": "34.708904",
+      "lng": "135.538986",
+      "facility_hp": "https://www.mentalcl.com/",
+      "facility_tel": "电话：06-6932-4970",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周六 11:00-13:00、 14:00-18:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "21.医療法人昭征会 さかのクリニック",
+      "facility_address": "大阪府枚方市東牧野町28 番 15 号",
+      "lat": "34.840057",
+      "lng": "135.676773",
+      "facility_hp": "https://www.sakano-cl.com/",
+      "facility_tel": "电话：072-857-1159",
+      "pcr_result": "当天",
+      "pcr_workday": "周一-周日 10:00-17:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "22.AC クリニック",
+      "facility_address": "大阪市都島区片町1-5-13 大手前センチュリービル 1 階",
+      "lat": "34.691628",
+      "lng": "135.523132",
+      "facility_hp": "https://acclinic.jp/",
+      "facility_tel": "电话：06-6360-9933",
+      "pcr_result": "当天",
+      "pcr_workday": "周一-周日 10:00-17:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "23.たつみ内科クリニック",
+      "facility_address": "大阪府茨木市新中条町1-30 ビエラ茨木新中条2 階",
+      "lat": "34.810665",
+      "lng": "135.564514",
+      "facility_hp": "https://tatsumi-naika.jp/",
+      "facility_tel": "电话：072-631-1810、传真：072-631-1815",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周五（周四下午休息） 08:30-09:00  15:30-16:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "24.野崎徳洲会病院",
+      "facility_address": "大阪府大東市谷川 2 丁目10 番 50 号",
+      "lat": "34.71114",
+      "lng": "135.633606",
+      "facility_hp": "https://nozaki.tokushukai.or.jp/",
+      "facility_tel": "电话：072-818-0035",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周五 09:00-15:00、周六 09:00-12:00"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "25.済生会新泉南病院",
+      "facility_address": "大阪府泉南市りんくう南浜 3 番 7",
+      "lat": "34.382992",
+      "lng": "135.267197",
+      "facility_hp": "https://saiseikaisennan.jp/hospital/index.html",
+      "facility_tel": "电话：072-480-5618",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一、周二、周三下午 1:00后（具体时间电话预约）"
+    },
+    {
+      "prefecture_name": "大阪府",
+      "prefecture_en": "Osaka",
+      "facility_name": "26.ミナミ心斎橋クリニック",
+      "facility_address": "大阪府大阪市中央区博労町2 丁目6-7 大バスビル心斎橋１F",
+      "lat": "34.678192",
+      "lng": "135.503922",
+      "facility_hp": "网址：https://osakacl.com",
+      "facility_tel": "电话：06-6281-0022、06-6583-9900",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周日(全年无休） 9:00-13:00/14:00-18:00"
+    },
+    {
+      "prefecture_name": "兵库县",
+      "prefecture_en": "Osaka",
+      "facility_name": "27.阿部内科医院",
+      "facility_address": "兵庫県神戸市須磨区神の谷 7 丁目 1-3",
+      "lat": "34.689812",
+      "lng": "135.084885",
+      "facility_hp": "https://abe-naika-iin.com/",
+      "facility_tel": "电话：078-794-1234",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周四 12:00～13:00"
+    },
+    {
+      "prefecture_name": "兵库县",
+      "prefecture_en": "Osaka",
+      "facility_name": "28.芦屋メディカルコミュニティ坂本泌尿器科",
+      "facility_address": "兵庫県芦屋市朝日ヶ丘町39-1",
+      "lat": "34.749271",
+      "lng": "135.308243",
+      "facility_hp": "",
+      "facility_tel": "电话：0797-35-5661、传真：0797-62-8639",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周五： 12:00～14:00、（也可根据需要另行安排）"
+    },
+    {
+      "prefecture_name": "兵库县",
+      "prefecture_en": "Osaka",
+      "facility_name": "29.やまさきファミリークリニック",
+      "facility_address": "兵庫県尼崎市御園町 54番地カーム尼崎 3F",
+      "lat": "34.717796",
+      "lng": "135.416504",
+      "facility_hp": "https://yamasaki-family-clinic.com/",
+      "facility_tel": "电话：06-6430-0567、传真：06-6430-0568",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一、二、三、五 09:00-12:00  14:00-19:00、周四 09:00-12:00"
+    },
+    {
+      "prefecture_name": "兵库县",
+      "prefecture_en": "Osaka",
+      "facility_name": "30.THE WELLNESS CLINIC",
+      "facility_address": "兵庫県神戸市中央区伊藤町 110-2 YANAGIDAビル 9F",
+      "lat": "34.688541",
+      "lng": "135.194824",
+      "facility_hp": "http://the-wellness-clinic.jp",
+      "facility_tel": "电话：078-392-5088、传真：078-392-5089",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一、二、四、五 13:30-17:00、周六 13:00-15:30、（其余时间段另询）"
+    },
+    {
+      "prefecture_name": "兵库县",
+      "prefecture_en": "Osaka",
+      "facility_name": "31.国立病院機構 兵庫あおの病院",
+      "facility_address": "兵庫県小野市市場町 926-453",
+      "lat": "34.831421",
+      "lng": "134.944366",
+      "facility_hp": "https://hyogoaono.hosp.go.jp/",
+      "facility_tel": "电话：0794-62-5533、传真：0794-62-5757",
+      "pcr_result": "1 天",
+      "pcr_workday": "工作日 9:30-16:00"
+    },
+    {
+      "prefecture_name": "兵库县",
+      "prefecture_en": "Osaka",
+      "facility_name": "32.神戸国際医療連携クリニック",
+      "facility_address": "中央区加納町１ー３ー２コトノハコ神戸１階",
+      "lat": "34.705647",
+      "lng": "135.194824",
+      "facility_hp": "https://kicc-medical.jp/",
+      "facility_tel": "电话：078-221-5777",
+      "pcr_result": "1 天",
+      "pcr_workday": "9：00-17:00"
+    },
+    {
+      "prefecture_name": "京都府",
+      "prefecture_en": "Osaka",
+      "facility_name": "33.とみえクリニック",
+      "facility_address": "京都府京都市下京区七条御所ノ内本町８９－１ クリニックモール西大路 １階",
+      "lat": "34.98481",
+      "lng": "135.73291",
+      "facility_hp": "https://www.tomie-cl.com/",
+      "facility_tel": "电话：075-322-8800、传真：075-322-8811",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周五、09:00-12:00  16:00-18:30、周末及节假日 09:00-11:00"
+    },
+    {
+      "prefecture_name": "京都府",
+      "prefecture_en": "Osaka",
+      "facility_name": "34.医療法人財団康生会武田病院",
+      "facility_address": "京都市下京区塩小路通西洞院東入東塩小路町841-5",
+      "lat": "34.987183",
+      "lng": "135.758743",
+      "facility_hp": "https://www.takedahp.or.jp/",
+      "facility_tel": "电话：075-361-1351、传真：075-361-1268",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一、二、三、五 09:00-12:00、16:00-18:30、周六 09:00-12:00"
+    },
+    {
+      "prefecture_name": "奈良县",
+      "prefecture_en": "Osaka",
+      "facility_name": "35.医疗法人拓生会奈良西部病院",
+      "facility_address": "奈良県奈良市三碓町2143-1",
+      "lat": "34.688892",
+      "lng": "135.720078",
+      "facility_hp": "http://naraseibu-hp.com/",
+      "facility_tel": "电话：074-251-8700",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周二：09:00-11:00 周三：09:00-11:00、 13:00-15:00、周五：09:00-11:00、、13:00-14:00"
+    },
+    {
+      "prefecture_name": "滋贺县",
+      "prefecture_en": "Osaka",
+      "facility_name": "36.医療法人みやこ  みやこクリニック",
+      "facility_address": "滋賀県長浜市湖北町速水2778",
+      "lat": "35.445862",
+      "lng": "136.236496",
+      "facility_hp": "https://www.miyakoclinic.net/",
+      "facility_tel": "电话：0749-78-1884、传真：0749-78-8058",
+      "pcr_result": "1-2 天",
+      "pcr_workday": "周一-周三、周五、周六 12:45-14:00"
+    },
+    {
+      "prefecture_name": "滋贺县",
+      "prefecture_en": "Osaka",
+      "facility_name": "37.公益財団法人滋賀県健康づくり財団",
+      "facility_address": "滋賀県大津市御殿浜6-28",
+      "lat": "34.985863",
+      "lng": "135.895889",
+      "facility_hp": "http://www.kenkou-shiga.or.jp/",
+      "facility_tel": "电话：(077) 536-5210",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周五 9:00-17:00"
+    },
+    {
+      "prefecture_name": "和歌山县",
+      "prefecture_en": "Osaka",
+      "facility_name": "38.生馬医院",
+      "facility_address": "和歌山県和歌山市吉田436",
+      "lat": "34.234795",
+      "lng": "135.189545",
+      "facility_hp": "http://www.ikomaiin.com/",
+      "facility_tel": "电话：073-422-1458",
+      "pcr_result": "当天-2 天",
+      "pcr_workday": "周一至周六上午 09：30-12： 30、周一至周三、周五下午、15：00-19：00、（有紧急检测通道）"
+    },
+    {
+      "prefecture_name": "冈山县",
+      "prefecture_en": "Osaka",
+      "facility_name": "39.岡山市立市民病院",
+      "facility_address": "岡山県岡山市北区北長瀬表町 3-20-1",
+      "lat": "34.652077",
+      "lng": "133.884338",
+      "facility_hp": "https://okayama-gmc.or.jp/shimin/",
+      "facility_tel": "电话：086-737-3000、传真：086-737-3011",
+      "pcr_result": "当天-2 天",
+      "pcr_workday": "工作日 09:00、13:00"
+    },
+    {
+      "prefecture_name": "冈山县",
+      "prefecture_en": "Osaka",
+      "facility_name": "40.川崎医科大学附属病院",
+      "facility_address": "岡山県倉敷市松島 577",
+      "lat": "34.631077",
+      "lng": "133.809937",
+      "facility_hp": "https://h.kawasaki-m.ac.jp/",
+      "facility_tel": "电话：086-462-1111",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一至周四 09:30-10:30"
+    },
+    {
+      "prefecture_name": "冈山县",
+      "prefecture_en": "Osaka",
+      "facility_name": "41.黒田医院",
+      "facility_address": "岡山県岡山市北区神田町 ２－８－３５",
+      "lat": "34.639011",
+      "lng": "133.922318",
+      "facility_hp": "http://www.kuroda-group.or.jp/",
+      "facility_tel": "电话：086-233-3531",
+      "pcr_result": "1 天-2 天",
+      "pcr_workday": "周一-周日 11:00、12:15、 14:00、16:00"
+    },
+    {
+      "prefecture_name": "广岛县",
+      "prefecture_en": "Osaka",
+      "facility_name": "42.大村クリニック  内科・循環器内科",
+      "facility_address": "広島県広島市佐伯区新宮苑 3-32",
+      "lat": "34.371239",
+      "lng": "132.361053",
+      "facility_hp": "http://www.omura-clinic.com/",
+      "facility_tel": "电话：082-922-0010",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周五 09:00-12:30、 14:30-18:30、周六、09:00-13:30"
+    },
+    {
+      "prefecture_name": "广岛县",
+      "prefecture_en": "Osaka",
+      "facility_name": "43.医療法人あわや内科クリニック",
+      "facility_address": "広島県廿日市市佐方 4-4-13",
+      "lat": "34.366478",
+      "lng": "132.34343",
+      "facility_hp": "https://www.awaya-clinic.com/",
+      "facility_tel": "电话：0829-34-0288",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一、二、三、五 09:00-12:30  15:00-18:00、周四、六  09:00-12:30"
+    },
+    {
+      "prefecture_name": "爱媛县",
+      "prefecture_en": "Osaka",
+      "facility_name": "44.かとうクリニック",
+      "facility_address": "愛媛県新居浜市船木4322-2",
+      "lat": "33.925774",
+      "lng": "133.343369",
+      "facility_hp": "http://katoclinic.biz/",
+      "facility_tel": "电话：0897-40-2400",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周五 13:00-14:30"
+    },
+    {
+      "prefecture_name": "爱媛县",
+      "prefecture_en": "Osaka",
+      "facility_name": "45.矢野内科",
+      "facility_address": "愛媛県松山市東長戸1-10-18",
+      "lat": "33.868465",
+      "lng": "132.752731",
+      "facility_hp": "",
+      "facility_tel": "电话：089-922-5522",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一、二、三、五：12:00"
+    },
+    {
+      "prefecture_name": "爱媛县",
+      "prefecture_en": "Osaka",
+      "facility_name": "46.おちクリニック 内科・循環器内科",
+      "facility_address": "愛媛県今治市馬越町1-2-28",
+      "lat": "34.054188",
+      "lng": "132.984543",
+      "facility_hp": "https://clinic-ochi.com/",
+      "facility_tel": "电话：0898-34-5055",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周五 12:00-12:30"
+    },
+    {
+      "prefecture_name": "香川县",
+      "prefecture_en": "Osaka",
+      "facility_name": "47.一般社団法人サンテペアーレ  サンテペアーレクリニック",
+      "facility_address": "香川県丸亀市大手町 3-3-21",
+      "lat": "34.287766",
+      "lng": "133.796906",
+      "facility_hp": "https://santepeare.com",
+      "facility_tel": "电话：0877-23-8700",
+      "pcr_result": "2 天",
+      "pcr_workday": "周一-周六 10:00-11:30"
+    },
+    {
+      "prefecture_name": "香川县",
+      "prefecture_en": "Osaka",
+      "facility_name": "48.高松画像診断クリニック",
+      "facility_address": "香川県高松市朝日町 2 丁目 7-23",
+      "lat": "34.34903",
+      "lng": "134.064285",
+      "facility_hp": "https://image.nishitakamatsu.jp",
+      "facility_tel": "电话：087-811-5588",
+      "pcr_result": "1 天",
+      "pcr_workday": "周一-周六 09:00-18:00、（其他时间预约电话： 090-1579-7687）"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "1.博多ひのきクリニック",
+      "facility_address": "福岡県福岡市博多区博多駅南１丁目８−３４７Ｆ",
+      "lat": "33.586235",
+      "lng": "130.422501",
+      "facility_hp": "https://hinoki-clinic.com/",
+      "facility_tel": "TEL：092-477-7216",
+      "pcr_result": "",
+      "pcr_workday": "周一至周五 9 点至 17 点、周六、日 9 点至 13点。每周三及日本法定节假日休息"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "2.城山国際医院",
+      "facility_address": "福岡県福岡市馬出1-10-2    7 階",
+      "lat": "33.608475",
+      "lng": "130.420029",
+      "facility_hp": "https://c2j-clinic.com/",
+      "facility_tel": "TEL：092-645-2177",
+      "pcr_result": "",
+      "pcr_workday": "周一至周六 9:00~18:00（周日及法定休息日、除外）"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "3.医療法人海陽会まえだクリニック",
+      "facility_address": "福岡県福岡市東区香椎照葉３丁目４−５  I.C.メディカルビル  2F",
+      "lat": "33.660507",
+      "lng": "130.421249",
+      "facility_hp": "https://www.islandcity-maeda-clinic.com/",
+      "facility_tel": "TEL：092-410-5222 FAX：092-410-5212",
+      "pcr_result": "周六检测者、周日上午接诊时间内交付结果",
+      "pcr_workday": "周日休诊"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "4.博多南ビル内科クリニック",
+      "facility_address": "福岡県福岡市博多区博多駅南 1-3-11  KDX 博多南ビル 4 階",
+      "lat": "33.586941",
+      "lng": "130.422897",
+      "facility_hp": "https://medkyu.com/",
+      "facility_tel": "TEL：092-451-3030",
+      "pcr_result": "",
+      "pcr_workday": "周一至周五：9:00-17:00周六：9:00-12:00"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "5.福岡大学病院",
+      "facility_address": "福岡市城南区七隈七丁目 45 番 1 号 本館１階",
+      "lat": "33.546318",
+      "lng": "130.358902",
+      "facility_hp": "https://www.hop.fukuoka-u.ac.jp/department/02/vaccine.html",
+      "facility_tel": "TEL：092-801-1011",
+      "pcr_result": "",
+      "pcr_workday": "周一至周四（节假日除外） 9:00-11:00"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "6.健和会  大手町病院感染症内科",
+      "facility_address": "福岡県北九州市小倉北区大手町 15-1",
+      "lat": "33.875828",
+      "lng": "130.871414",
+      "facility_hp": "https://otemachi.kenwakai.gr.jp/",
+      "facility_tel": "TEL：093-592-5511",
+      "pcr_result": "当天可取",
+      "pcr_workday": "预约时间：周一至周五 14:00-16:00、检测时间：周一至周五 9 点检测"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "7.岩本内科医院",
+      "facility_address": "福岡県北九州市小倉南区下石田 1-2-8",
+      "lat": "33.839443",
+      "lng": "130.890533",
+      "facility_hp": "https://iwamoto-clinic.jp/",
+      "facility_tel": "TEL：093-961-4118",
+      "pcr_result": "",
+      "pcr_workday": "周一至周五：11:30/16:00周六：11:30"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "8.さくらクリニック",
+      "facility_address": "福岡県糸島市篠原東１－１３－３",
+      "lat": "33.553818",
+      "lng": "130.211731",
+      "facility_hp": "http://cl-sakura.jp/",
+      "facility_tel": "TEL:092-332-2330",
+      "pcr_result": "",
+      "pcr_workday": "周一至周五 09:00-13:15;14:00-17:00、周六 09:00-14:30"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "9.医療法人  鎮寿会前野クリニック",
+      "facility_address": "福岡県那珂川市仲1 丁目 ５６",
+      "lat": "33.508945",
+      "lng": "130.425766",
+      "facility_hp": "https://maeno-clinic.jp/",
+      "facility_tel": "TEL：092-954-1812",
+      "pcr_result": "",
+      "pcr_workday": "平日 9:00-12:00"
+    },
+    {
+      "prefecture_name": "福冈县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "10.飯塚病院感染症科",
+      "facility_address": "福岡県飯塚市芳雄町３丁目８３",
+      "lat": "33.641991",
+      "lng": "130.691101",
+      "facility_hp": "https://aih-net.com/depts/kansen/vaccines.php",
+      "facility_tel": "TEL：0948-29-8916 FAX：0948-29-8920",
+      "pcr_result": "",
+      "pcr_workday": "周六日、祝日休息"
+    },
+    {
+      "prefecture_name": "佐贺县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "11.伊万里有田共立病院",
+      "facility_address": "佐賀県西松浦郡有田町二ノ瀬甲 860",
+      "lat": "33.239285",
+      "lng": "129.852356",
+      "facility_hp": "http://www.imari-arita-hp.or.jp/covid19.html",
+      "facility_tel": "TEL：0955-46-2121 FAX：0955-46-2823",
+      "pcr_result": "周一至周四检测：第二天 17 点后；周五检测：第二周平日十点后",
+      "pcr_workday": ""
+    },
+    {
+      "prefecture_name": "佐贺县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "12.蓮台寺クリニック",
+      "facility_address": "熊本県熊本市西区蓮台寺３丁目４−３",
+      "lat": "32.771698",
+      "lng": "130.68721",
+      "facility_hp": "https://rendaiji-clinic.com/",
+      "facility_tel": "TEL:096-355-2810",
+      "pcr_result": "",
+      "pcr_workday": "周一 9:00-17:30、周二至周五 9:00-12:30、周六 8:30-12:30"
+    },
+    {
+      "prefecture_name": "熊本県",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "13.安成医院",
+      "facility_address": "熊本県玉名郡玉東町木葉 755-6",
+      "lat": "32.919067",
+      "lng": "130.624146",
+      "facility_hp": "",
+      "facility_tel": "TEL:0968-85-2047、FAX:0968-85-2931",
+      "pcr_result": "",
+      "pcr_workday": "周一至周五 9:00-12:00"
+    },
+    {
+      "prefecture_name": "熊本県",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "14.はがこどもクリニック",
+      "facility_address": "熊本県上益城郡益城町宮園 408-1",
+      "lat": "32.787758",
+      "lng": "130.817474",
+      "facility_hp": "http://www.hagakodomo.com/",
+      "facility_tel": "TEL：096-289-7020 FAX：096-289-7021",
+      "pcr_result": "",
+      "pcr_workday": "周一至周四：9:00-11:00；14:00-16:00周五：9:00-11:00"
+    },
+    {
+      "prefecture_name": "熊本県",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "15.菊陽あきたクリニック",
+      "facility_address": "熊本県菊池郡菊池郡菊陽町原水  1156 番地 13",
+      "lat": "32.86298",
+      "lng": "130.828873",
+      "facility_hp": "https://www.akita-g.com/",
+      "facility_tel": "TEL：096-232-8333",
+      "pcr_result": "",
+      "pcr_workday": "周一至周六：9:00-12:30、周一、周二、周四、周五：14:00-18:00"
+    },
+    {
+      "prefecture_name": "宫崎县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "16.いわさき小児科",
+      "facility_address": "宮崎県宮崎市神宮東3 丁目２０６番地２",
+      "lat": "31.9384",
+      "lng": "131.42865",
+      "facility_hp": "https://www.iwasakiclinic.org/",
+      "facility_tel": "TEL：0985-35-7725、FAX：0985-35-7726",
+      "pcr_result": "",
+      "pcr_workday": "每月不定、详见其网页通知"
+    },
+    {
+      "prefecture_name": "山口县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "17.公益財団法人山口県予防保健協会",
+      "facility_address": "山口県山口市小郡上郷 5408 番地 1",
+      "lat": "34.134544",
+      "lng": "131.395523",
+      "facility_hp": "https://www.yobou.or.jp/",
+      "facility_tel": "TEL：083-933-0008  ﾀﾞｲﾔﾙｲﾝ「4」",
+      "pcr_result": "",
+      "pcr_workday": "每周三 9:00-11:30"
+    },
+    {
+      "prefecture_name": "山口县",
+      "prefecture_en": "Fukuoka",
+      "facility_name": "18.たけのこクリニック",
+      "facility_address": "山口県熊毛郡平生町大字平生村７６５−２",
+      "lat": "33.945328",
+      "lng": "132.07637",
+      "facility_hp": "https://www.takenoko-clinic.com/pcrtestg",
+      "facility_tel": "TEL：090-1707-6266（可中文）",
+      "pcr_result": "",
+      "pcr_workday": "9：00〜12：00、15：00〜18：00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "1、だいどうクリニック予防接種センター",
+      "facility_address": "名古屋市南区白水町 8 番地",
+      "lat": "35.074577",
+      "lng": "136.908432",
+      "facility_hp": "",
+      "facility_tel": "052-611-8650",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-11:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "2、藤が丘オーキッドファミリークリニック",
+      "facility_address": "名古屋市名東区藤が丘 143 番地藤が丘公団 1 号棟 2 階",
+      "lat": "35.182888",
+      "lng": "137.021622",
+      "facility_hp": "",
+      "facility_tel": "090-8568-3336",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-11:30 及、周一、二、四、五的 16:00-19:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "3、金山ファミリークリニック",
+      "facility_address": "名古屋市熱田区金山町 1-503 トーワ金山ビル 6F",
+      "lat": "35.141369",
+      "lng": "136.900681",
+      "facility_hp": "",
+      "facility_tel": "052-678-7700",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二、三、五的 9:00-11:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "4、常滑市民病院",
+      "facility_address": "常滑市飛香台 3-3-3",
+      "lat": "34.896324",
+      "lng": "136.852585",
+      "facility_hp": "",
+      "facility_tel": "0569-35-3170",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-10:30"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "5、ゆう内科クリニック",
+      "facility_address": "名古屋市中区錦１丁目 20-10 HR ・NET 伏見ビル 9F",
+      "lat": "35.168739",
+      "lng": "136.896866",
+      "facility_hp": "",
+      "facility_tel": "052-212-6085",
+      "pcr_result": "",
+      "pcr_workday": "每周一至周六 9:00-13:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "6、藤田医科大学ばんたね病院",
+      "facility_address": "名古屋市中川区尾頭橋 3-6-10",
+      "lat": "35.144558",
+      "lng": "136.890991",
+      "facility_hp": "",
+      "facility_tel": "052-323-5927/5918",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-10:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "7、名古屋ステーションクリニック",
+      "facility_address": "名古屋市中村区名駅 4-6-17 名古屋ビルディング 8 階",
+      "lat": "35.171162",
+      "lng": "136.885193",
+      "facility_hp": "https://pcr.station-clinic.com/",
+      "facility_tel": "052-551-6667（可用中文）",
+      "pcr_result": "",
+      "pcr_workday": "每周一至周六 13:00-16:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "8、うかい医院",
+      "facility_address": "日進市東山 4-621-2",
+      "lat": "35.127277",
+      "lng": "137.051041",
+      "facility_hp": "",
+      "facility_tel": "0561-74-1551",
+      "pcr_result": "",
+      "pcr_workday": "每周一至周六 8:00-9:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "9、ひだかこどもクリニック",
+      "facility_address": "知多郡東浦町大字緒川字大門一区3-2",
+      "lat": "34.982346",
+      "lng": "136.957123",
+      "facility_hp": "",
+      "facility_tel": "0562-82-0700",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二、四、五 9:00-18:00、及每周六、日 9:00-12:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "10、たいようこどもクリニック",
+      "facility_address": "名古屋市北区黒川本通 5-22-1",
+      "lat": "35.202286",
+      "lng": "136.911896",
+      "facility_hp": "",
+      "facility_tel": "052-911-3211",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-12:00、16:00-18:30"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "11、一般社団法人オリエンタル労働衛生協会  メディカルクリニック",
+      "facility_address": "名古屋市千種区今池 1-8-4",
+      "lat": "35.16901",
+      "lng": "136.936325",
+      "facility_hp": "",
+      "facility_tel": "052-746-6556",
+      "pcr_result": "",
+      "pcr_workday": "每周一、三、四 9:00-11:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "12、清水内科クリニック",
+      "facility_address": "名古屋市北区平安 1-8-50",
+      "lat": "35.194187",
+      "lng": "136.931534",
+      "facility_hp": "",
+      "facility_tel": "052-912-0002",
+      "pcr_result": "",
+      "pcr_workday": "工作日 11:30-11:45、18:30-18:45"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "13、星ヶ丘マタニティ病院",
+      "facility_address": "名古屋市千種区井上町 27",
+      "lat": "35.162445",
+      "lng": "136.983017",
+      "facility_hp": "http://www.toukeikai.com/na_pcr.htm",
+      "facility_tel": "E-mail:naika@toukeikai.com",
+      "pcr_result": "",
+      "pcr_workday": "每周一、三、四、五 9:00-12:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "14、リブラささしまメディカルクリニック",
+      "facility_address": "名古屋市中村区平池町 4-60-12グローバルゲート５階",
+      "lat": "35.16172",
+      "lng": "136.882553",
+      "facility_hp": "",
+      "facility_tel": "070-4067-5035（可用中文）、052-485-7298",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-12:00、14:00-17:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "15、江崎外科内科",
+      "facility_address": "小牧市曙町 70",
+      "lat": "35.292946",
+      "lng": "136.907486",
+      "facility_hp": "",
+      "facility_tel": "0568-75-2211",
+      "pcr_result": "",
+      "pcr_workday": "工作日 10:30-11:30"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "16、成田記念病院",
+      "facility_address": "豊橋市羽根井本町 134 番地",
+      "lat": "34.759014",
+      "lng": "137.378113",
+      "facility_hp": "",
+      "facility_tel": "0532-31-2167",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二 14:00-16:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "17、メドック健康クリニック",
+      "facility_address": "名古屋市昭和区安田通 4-3",
+      "lat": "35.154263",
+      "lng": "136.944855",
+      "facility_hp": "http://medoc.jp/pcr_china",
+      "facility_tel": "052-209-5466（中文）、052-752-1135（日语）",
+      "pcr_result": "",
+      "pcr_workday": "工作日 14:00-17:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "18、偕行会城西病院",
+      "facility_address": "名古屋市中村区北畑町四丁目1 番地",
+      "lat": "35.159004",
+      "lng": "136.865616",
+      "facility_hp": "",
+      "facility_tel": "052-485-3777",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二、四、五 13:00-15:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "19、名古屋共立病院",
+      "facility_address": "名古屋市中川区法華一丁目 172 番地",
+      "lat": "35.127384",
+      "lng": "136.848343",
+      "facility_hp": "",
+      "facility_tel": "052-362-5151",
+      "pcr_result": "",
+      "pcr_workday": "工作日 13:00-15:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "20、藤田医科大学岡崎医療センター",
+      "facility_address": "岡崎市針崎町字五反田 1 番地",
+      "lat": "34.916618",
+      "lng": "137.150162",
+      "facility_hp": "https://okazaki.fujita-hu.ac.jp/topics/dts2c90000001437.html",
+      "facility_tel": "E-mail：hp4renkei@fujita-hu.ac.jp",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-12:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "21、藤田医科大学病院",
+      "facility_address": "豊明市沓掛町田楽ケ窪 1-98",
+      "lat": "35.070999",
+      "lng": "137.001389",
+      "facility_hp": "https://hospital.fujita-hu.ac.jp/topics/Businesstravelers_pcr.html",
+      "facility_tel": "E-mail:hp1g-iji@fujita-hu.ac.jp",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-12:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "22、医療法人社団  交和会同仁医院",
+      "facility_address": "春日井市勝川町 5-105",
+      "lat": "35.228302",
+      "lng": "136.94841",
+      "facility_hp": "",
+      "facility_tel": "070-4067-5035（可用中文）、0568-33-6787",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二、四、五 9:00-12:00、17：00-19:00、每周六 9:00-12:00"
+    },
+    {
+      "prefecture_name": "爱知县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "23、松前内科医院",
+      "facility_address": "一宮市浅野字紅楳野５０－１",
+      "lat": "35.301102",
+      "lng": "136.830887",
+      "facility_hp": "",
+      "facility_tel": "0586-81-7001",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二、四、五 8:30-11:30、16:00-18:00、每周三、六 8:30-11:30"
+    },
+    {
+      "prefecture_name": "岐阜县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "24、矢嶋小児科小児循環器クリニック",
+      "facility_address": "岐阜市日野南 7-10-7",
+      "lat": "35.429321",
+      "lng": "136.810547",
+      "facility_hp": "",
+      "facility_tel": "058-240-5666",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-18:00"
+    },
+    {
+      "prefecture_name": "岐阜县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "25、東海中央病院",
+      "facility_address": "各務原市蘇原東島町 4-6-2",
+      "lat": "35.41011",
+      "lng": "136.876938",
+      "facility_hp": "https://www.tokaihp.jp/news/post_170.html",
+      "facility_tel": "",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-10:30"
+    },
+    {
+      "prefecture_name": "岐阜县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "26、操健康クリニック",
+      "facility_address": "岐阜市薮田南 1-4-20",
+      "lat": "35.394875",
+      "lng": "136.725037",
+      "facility_hp": "",
+      "facility_tel": "058-274-0330",
+      "pcr_result": "",
+      "pcr_workday": "工作日 12:00-14:30"
+    },
+    {
+      "prefecture_name": "富山县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "27、魚津緑ヶ丘病院",
+      "facility_address": "魚津市大光寺 287",
+      "lat": "36.811428",
+      "lng": "137.410202",
+      "facility_hp": "",
+      "facility_tel": "0765-22-1567",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二、五 13:00-14:30"
+    },
+    {
+      "prefecture_name": "富山县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "28、不二越病院",
+      "facility_address": "富山市東石金町 11-65",
+      "lat": "36.684277",
+      "lng": "137.23703",
+      "facility_hp": "",
+      "facility_tel": "076-424-2881",
+      "pcr_result": "",
+      "pcr_workday": "工作日 13:30-14:00"
+    },
+    {
+      "prefecture_name": "富山县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "29、東岩瀬クリニック",
+      "facility_address": "富山市高畠町 1-11-11",
+      "lat": "36.749546",
+      "lng": "137.230927",
+      "facility_hp": "",
+      "facility_tel": "higashiiwaseclinic@hotmail.com、076-426-0880",
+      "pcr_result": "",
+      "pcr_workday": "工作日 11:00-12:00、16:00-18:00"
+    },
+    {
+      "prefecture_name": "石川县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "30、金澤なかで  クリニック",
+      "facility_address": "金沢市近岡町 294 番地 7",
+      "lat": "36.609543",
+      "lng": "136.632462",
+      "facility_hp": "",
+      "facility_tel": "080-2956-6400",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-13:00、15:00-17:00"
+    },
+    {
+      "prefecture_name": "石川县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "31、石川県予防医学協会  予防医学クリニック",
+      "facility_address": "金沢市神野町東 115 番地",
+      "lat": "36.564419",
+      "lng": "136.600266",
+      "facility_hp": "",
+      "facility_tel": "076-249-7373",
+      "pcr_result": "",
+      "pcr_workday": "工作日 14:00-16:00、周六检测需提前咨询"
+    },
+    {
+      "prefecture_name": "石川县",
+      "prefecture_en": "Nagoya",
+      "facility_name": "32、コマツクリニック",
+      "facility_address": "金沢市大野町新町 1-1",
+      "lat": "36.628822",
+      "lng": "136.608185",
+      "facility_hp": "",
+      "facility_tel": "076-293-4930",
+      "pcr_result": "",
+      "pcr_workday": "工作日 9:00-15:00"
+    },
+    {
+      "prefecture_name": "三重県",
+      "prefecture_en": "Nagoya",
+      "facility_name": "33、ほしみ脳神経外科",
+      "facility_address": "桑名市星見ヶ丘 7-305",
+      "lat": "35.067726",
+      "lng": "136.63562",
+      "facility_hp": "",
+      "facility_tel": "0594-32-7500",
+      "pcr_result": "",
+      "pcr_workday": "每周一、二、三、五、六 9:00-12:00、、15:00-18:00"
+    },
+    {
+      "prefecture_name": "新潟県",
+      "prefecture_en": "Niigata",
+      "facility_name": "1、プラーカ中村クリニック",
+      "facility_address": "新潟市中央区笹口 1-1",
+      "lat": "37.910976",
+      "lng": "139.063766",
+      "facility_hp": "http://plaka-nakamura-clinic.skr.jp/index.cgi",
+      "facility_tel": "TEL:025-240-04266/FAX:025-240-0908",
+      "pcr_result": "2 天",
+      "pcr_workday": "每周一至每周四、周五"
+    },
+    {
+      "prefecture_name": "新潟県",
+      "prefecture_en": "Niigata",
+      "facility_name": "2、こばやし内科クリニック",
+      "facility_address": "新潟市中央区紫竹山6-2-26",
+      "lat": "37.898342",
+      "lng": "139.065994",
+      "facility_hp": "https://kobayashi-naika.clinic/pcr/index.html",
+      "facility_tel": "TEL:025-246-56000/FAX：025-246-5633、PCR 検査専用電話：070-4117-8374",
+      "pcr_result": "1 天",
+      "pcr_workday": "每周一至每周五"
+    },
+    {
+      "prefecture_name": "宫城県",
+      "prefecture_en": "Niigata",
+      "facility_name": "3、多贺城あかざクリニック",
+      "facility_address": "宮城県多賀城市高橋2-15-28",
+      "lat": "38.285324",
+      "lng": "140.973129",
+      "facility_hp": "https://www.akaza-mc.com/",
+      "facility_tel": "電話 022-794-7201/FAX:022-794-7202",
+      "pcr_result": "1 天",
+      "pcr_workday": "每周一至每周日"
+    },
+    {
+      "prefecture_name": "宫城県",
+      "prefecture_en": "Niigata",
+      "facility_name": "4.七郷クリニック",
+      "facility_address": "宮城県仙台市若林区荒井3丁目 25-4",
+      "lat": "38.240673",
+      "lng": "140.944611",
+      "facility_hp": "http://75clinic.com/",
+      "facility_tel": "電話 022-287-1475/FAX:022-287-1375",
+      "pcr_result": "1 天",
+      "pcr_workday": "每周一至每周五、周六上午"
+    },
+    {
+      "prefecture_name": "山形県",
+      "prefecture_en": "Niigata",
+      "facility_name": "5、べにばな内科クリニック",
+      "facility_address": "山形県山形市蔵王成沢西4-11-32",
+      "lat": "38.200878",
+      "lng": "140.328796",
+      "facility_hp": "http://www.benibana-clinic.com/",
+      "facility_tel": "電話 023-688-3511/FAX 023-688-3577",
+      "pcr_result": "2 天",
+      "pcr_workday": "每周一至每周六"
+    },
+    {
+      "prefecture_name": "福岛県",
+      "prefecture_en": "Niigata",
+      "facility_name": "6、しぎはらクリニック",
+      "facility_address": "福島県福島市八島田字勝口 37 番地",
+      "lat": "37.766933",
+      "lng": "140.436081",
+      "facility_hp": "http://aki2250.xsrv.jp/",
+      "facility_tel": "電話 024-555-3331/FAX 024-555-3332",
+      "pcr_result": "2 天",
+      "pcr_workday": "每周一至每周日、假日"
+    },
+    {
+      "prefecture_name": "福岛県",
+      "prefecture_en": "Niigata",
+      "facility_name": "7、南東北医療クリニック",
+      "facility_address": "福島県郡山市八山田七丁目 161",
+      "lat": "37.423096",
+      "lng": "140.38121",
+      "facility_hp": "http://www.minamitohoku.or.jp/",
+      "facility_tel": "電話 024-934-5385/FAX 024-934-5393",
+      "pcr_result": "2 天",
+      "pcr_workday": "每周一至每周五"
+    },
+    {
+      "prefecture_name": "福岛県",
+      "prefecture_en": "Niigata",
+      "facility_name": "8、常磐病院",
+      "facility_address": "福島県いわき市常磐上湯長谷町上ノ台 57",
+      "lat": "37.003819",
+      "lng": "140.838974",
+      "facility_hp": "http://www.tokiwa.or.jp/hospital/jyoban/",
+      "facility_tel": "TEL 0246-43-7399/FAX 0246-43-7000",
+      "pcr_result": "2 天",
+      "pcr_workday": "每周一至每周六"
     }
   ]
 }
