@@ -61,9 +61,11 @@ window.onload = () => {
         this.markers.push(marker);
         const infoWindow = new google.maps.InfoWindow({
           content:
-            "<h3>" +
+            "<a href='//www.google.com/maps/search/?api=1&query=" +
+            encodeURI(place.facility_address + "," + place.facility_name) +
+            "'><h3>" +
             place.facility_name +
-            "</h3>" +
+            "</h3></a>" +
             "<h6>" +
             place.facility_address +
             "</h6>" +
